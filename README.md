@@ -2,11 +2,9 @@
 
 ## Reconnaissance
 
-Ad	Açıklama	URL
 
 [RustScan](https://github.com/RustScan/RustScan)
 Modern Bağlantı Noktası Tarayıcısı. Bağlantı noktalarını hızlı bir şekilde bulun (en hızlı 3 saniye). Komut dosyalarını komut dosyası motorumuz aracılığıyla çalıştırın   (Python,  Lua, Shell desteklenir).	
-
 
 [Amass](https://github.com/OWASP/Amass)	 
 Derinlemesine Saldırı Yüzeyi Haritalama  ve Varlık Keşfi	
@@ -14,327 +12,273 @@ Derinlemesine Saldırı Yüzeyi Haritalama  ve Varlık Keşfi
 [gitleaks](https://github.com/zricethezav/gitleaks)
 Gitleaks,  git depolarındaki parolalar, api anahtarları ve belirteçler gibi sabit kodlanmış gizli dizileri algılamak için kullanılan bir SAST aracıdır.	
 
-[]()S3Tarayıcı	 Açık S3 klasörlerini tarayın ve içerikleri boşaltın 	https://github.com/sa7mon/S3Scanner
+[S3Tarayıcı](https://github.com/sa7mon/S3Scanner)	 Açık S3 klasörlerini tarayın ve içerikleri boşaltın 	
 
-[]()cloud_enum	Çok bulutlu OSINT aracı.  AWS, Azure ve Google Cloud'daki genel kaynakları numaralandırın.	
-https://github.com/initstring/cloud_enum
+[cloud_enum](https://github.com/initstring/cloud_enum)	Çok bulutlu OSINT aracı.  AWS, Azure ve Google Cloud'daki genel kaynakları numaralandırın.	
 
-[]()Recon-ng	Açık kaynaklardan  bilgi   toplamak için harcanan zamanı azaltmayı amaçlayan Açık Kaynak İstihbarat toplama aracı   .   	
-https://github.com/lanmaster53/recon-ng
-Buster	 E-posta keşfi için gelişmiş araç	https://github.com/sham00n/buster
+[Recon-ng](https://github.com/lanmaster53/recon-ng)	Açık kaynaklardan  bilgi   toplamak için harcanan zamanı azaltmayı amaçlayan Açık Kaynak İstihbarat toplama aracıdır.   	
 
-[]()linkedin2username	OSINT Aracı: LinkedIn'deki şirketler   için kullanıcı adı listeleri oluşturun	
-https://github.com/initstring/linkedin2username
+[Buster](https://github.com/sham00n/buster)	E-posta keşfi için gelişmiş araç	
 
-[]()WitnessMe	Web Envanteri aracı, Pyppeteer (başsız Chrome / Chromium) kullanarak web sayfalarının ekran görüntülerini  alır ve hayatı kolaylaştırmak için bazı ekstra çanlar ve ıslıklar sağlar.	
-https://github.com/byt3bl33d3r/WitnessMe
- 
-[]()pagodo	pagodo (Pasif Google Dork) - Google'ı otomatikleştirin Hacking Veritabanı kazıma ve arama	https://github.com/opsdisk/pagodo
+[linkedin2username](https://github.com/initstring/linkedin2username)	OSINT Aracı: LinkedIn'deki şirketler   için kullanıcı adı listeleri oluşturun	
+
+[WitnessMe](https://github.com/byt3bl33d3r/WitnessMe)	Web Envanteri aracı, Pyppeteer (başsız Chrome / Chromium) kullanarak web sayfalarının ekran görüntülerini  alır ve hayatı kolaylaştırmak için bazı ekstra çanlar ve ıslıklar sağlar.	
+
+[pagodo](https://github.com/opsdisk/pagodo) (Pasif Google Dork) - Google'ı otomatikleştirin Hacking Veritabanı kazıma ve arama	
 		
+[AttackSurfaceMapper](https://github.com/superhedgy/AttackSurfaceMapper)	 keşif sürecini    otomatikleştirmeyi amaçlayan bir  araçtır.	
 
-[]()AttackSurfaceMapper	AttackSurfaceMapper,  keşif sürecini    otomatikleştirmeyi amaçlayan bir  araçtır.	
-https://github.com/superhedgy/AttackSurfaceMapper
+[SpiderFoot](https://github.com/smicallef/spiderfoot)	 açık kaynaklı bir  istihbarat (OSINT) otomasyon aracıdır.  Mevcut hemen   hemen her veri  kaynağıyla entegre olur ve   veri analizi için bir dizi yöntem kullanarak bu verilerde  gezinmeyi kolaylaştırır. 	
 
-[]()SpiderFoot	SpiderFoot açık kaynaklı bir  istihbarat (OSINT) otomasyon aracıdır.  Mevcut hemen   hemen her veri  kaynağıyla entegre olur ve   veri analizi için bir dizi yöntem kullanarak bu verilerde  gezinmeyi kolaylaştırır. 	
-https://github.com/smicallef/spiderfoot
+[dnscan](https://github.com/rbsec/dnscan)	python kelime listesi tabanlı bir DNS alt etki alanı tarayıcısıdır.	
 
-[]()dnscan	dnscan, python kelime listesi tabanlı bir DNS alt etki alanı tarayıcısıdır.	
-https://github.com/rbsec/dnscan
+[spoofcheck](https://github.com/BishopFox/spoofcheck)	Bir etki alanının taklit edilip edilemeyeceğini denetleyen bir program.  Program  , SPF ve DMARC kayıtlarında  adres  sahteciliğine izin veren zayıf yapılandırmaları denetler.	
 
-[]()spoofcheck	Bir etki alanının taklit edilip edilemeyeceğini denetleyen bir program.  Program  , SPF ve DMARC kayıtlarında  adres  sahteciliğine izin veren zayıf yapılandırmaları denetler.	
-https://github.com/BishopFox/spoofcheck
-[]()LinkedInt	LinkedIn Recon Aracı 	https://github.com/vysecurity/LinkedInt
+[LinkedInt](https://github.com/vysecurity/LinkedInt)	LinkedIn Recon Aracı 	
 
-Brute Force
+## Brute Force
 
-Ad	Tarif	URL
 
-[]()SprayingToolkit	Lync  / S4B,  OWA ve O365'e karşı şifre püskürtme saldırılarını  çok daha hızlı, daha  az acı verici ve daha verimli hale getirmek için komut dosyaları	
-https://github.com/byt3bl33d3r/SprayingToolkit
-[]()o365recon	 Geçerli bir cred ile O365 üzerinden bilgi alın	https://github.com/nyxgeek/o365recon
+[SprayingToolkit](https://github.com/byt3bl33d3r/SprayingToolkit) 	Lync  / S4B,  OWA ve O365'e karşı şifre püskürtme saldırılarını  çok daha hızlı, daha  az acı verici ve daha verimli hale getirmek için komut dosyaları	
 
-Payload Development
+[o365recon](https://github.com/nyxgeek/o365recon)	 Geçerli bir cred ile O365 üzerinden bilgi alın	
 
-Ad	Tarif	URL
+## Payload Development
 
-[]()Ivy	  Ivy, rastgele VBA (makro) kaynak kodunun doğrudan bellekte yürütülmesi  için bir yük oluşturma çerçevesidir.	
-https://github.com/optiv/Ivy
-[]()PEzor	Açık Kaynak PE Paketleyici	https://github.com/phra/PEzor
 
-[]()GadgetToJScript	 JS/VBS/VBA betiklerinden BinaryFormatter  kullanılarak seri durumdan  çıkarıldığında .NET  derleme yüklemesini/yürütülmesini tetikleyebilen .NET  serileştirilmiş araçlar oluşturmak için bir araç  .	
-https://github.com/med0x2e/GadgetToJScript
-[]()ScareCrow	 EDR bypass etrafında tasarlanmış yük oluşturma çerçevesi.	https://github.com/optiv/ScareCrow
+[Ivy](https://github.com/optiv/Ivy)	  Ivy, rastgele VBA (makro) kaynak kodunun doğrudan bellekte yürütülmesi  için bir yük oluşturma çerçevesidir.	
 
-[]()Donut	Donut,  VBScript, JScript,  EXE, DLL dosyaları ve dotNET derlemelerinin   bellek içinde yürütülmesini sağlayan  konumdan bağımsız bir  koddur. 	
-https://github.com/TheWover/donut
-[]()Mystikal	macOS İlk Erişim Yükü  Oluşturucu	https://github.com/D00MFist/Mystikal
-[]()charlotte	c++ tamamen algılanmamış kabuk kodu başlatıcısı ;)	https://github.com/9emin1/charlotte
+[PEzor](https://github.com/phra/PEzor)	Açık Kaynak PE Paketleyici	
 
-[]()InvisibilityCloak	C# istismar sonrası araçları için kavram kanıtı gizleme araç seti  .  Bu, bir C# görsel stüdyo projesi için  aşağıdaki eylemleri gerçekleştirir.	
-https://github.com/xforcered/InvisibilityCloak
+[GadgetToJScript](https://github.com/med0x2e/GadgetToJScript)	 JS/VBS/VBA betiklerinden BinaryFormatter  kullanılarak seri durumdan  çıkarıldığında .NET  derleme yüklemesini/yürütülmesini tetikleyebilen .NET  serileştirilmiş araçlar oluşturmak için bir araç  .	
 
-[]()Dendrobate	Dendrobate,  yönetilmeyen kodu yönetilen   aracılığıyla bağlayan yüklerin  geliştirilmesini kolaylaştıran bir çerçevedir  
+[ScareCrow](https://github.com/optiv/ScareCrow)	 EDR bypass etrafında tasarlanmış yük oluşturma çerçevesi.	
+
+[Donut](https://github.com/TheWover/donut)	Donut,  VBScript, JScript,  EXE, DLL dosyaları ve dotNET derlemelerinin   bellek içinde yürütülmesini sağlayan  konumdan bağımsız bir  koddur. 	
+
+[Mystikal](https://github.com/D00MFist/Mystikal)	macOS İlk Erişim Yükü  Oluşturucu	
+[charlotte](https://github.com/9emin1/charlotte)	c++ tamamen algılanmamış kabuk kodu başlatıcısı ;)	
+
+[InvisibilityCloak](https://github.com/xforcered/InvisibilityCloak)	C# istismar sonrası araçları için kavram kanıtı gizleme araç seti  .  Bu, bir C# görsel stüdyo projesi için  aşağıdaki eylemleri gerçekleştirir.	
+
+
+[Dendrobate](https://github.com/FuzzySecurity/Dendrobate)	Dendrobate,  yönetilmeyen kodu yönetilen   aracılığıyla bağlayan yüklerin  geliştirilmesini kolaylaştıran bir çerçevedir  
 .NET kodu.	
-https://github.com/FuzzySecurity/Dendrobate
 
-[]()Offensive VBA and XLS Entanglement	Bu depo,  VBA'nın basit  bir damlalık veya kabuk enjektörünün ötesinde saldırgan amaçlar  için nasıl kullanılabileceğine dair  örnekler sağlar  . Daha fazla kullanım örneği geliştirdikçe, depo güncellenecektir.	
-https://github.com/BC-SECURITY/Offensive-VBA-and- XLS-Dolanıklık
+
+[Offensive VBA and XLS Entanglement](https://github.com/BC-SECURITY/Offensive-VBA-and-XLS-Entanglement)	Bu depo,  VBA'nın basit  bir damlalık veya kabuk enjektörünün ötesinde saldırgan amaçlar  için nasıl kullanılabileceğine dair  örnekler sağlar  . Daha fazla kullanım örneği geliştirdikçe, depo güncellenecektir.	
+
 		
 
-[]()xlsGen
-	
-Minik Excel BIFF8 Oluşturucu, 
-D*.exslscription'a Gömülü 4.0 Makroları için	
-https://github.com/aaaddress1/xlsGen
-[]()darkarmour	Windows AV Kaçınma	https://github.com/bats3c/darkarmour
+[xlsGen](https://github.com/aaaddress1/xlsGen)	Minik Excel BIFF8 Oluşturucu, D*.exslscription'a Gömülü 4.0 Makroları için	
 
-[]()InlineFısıltılar	 Cobalt  Strike'ın Beacon  Object Files'ında  (BOF) Doğrudan Sistem   Çağrıları ile çalışmak için araç	
-https://github.com/outflanknl/InlineWhispers
+[darkarmour](https://github.com/bats3c/darkarmour)	Windows AV Kaçınma	
 
-[]()EvilClippy	 Kötü amaçlı MS Office belgeleri oluşturmak için platformlar arası bir yardımcı.  VBA makrolarını gizleyebilir,  VBA kodunu durdurabilir (P- Kodu aracılığıyla) ve makro analiz araçlarını  karıştırabilir. Linux, OSX ve Windows üzerinde çalışır.	
-https://github.com/outflanknl/EvilClippy
-
-[]()OfficePurge	VBA, OfficeUrge ile Office belgelerinizi temizleyin. VBA temizleme, Office belgeleri içindeki modül akışlarından P kodunu  kaldırır.	
-https://github.com/fireeye/OfficePurge
-
-[]()ThreatCheck	 Microsoft Defender / AMSI   Tüketicisinin bayrakladığı baytları tanımlar    .	
-https://github.com/rasta-mouse/ThreatCheck
-[]()CrossC2	 CobaltStrike'ın platformlar arası yükünü oluşturun	https://github.com/gloxec/CrossC2
-
-[]()Ruler	  Ruler, MAPI/HTTP veya RPC/HTTP protokolü aracılığıyla   Exchange sunucularıyla uzaktan  etkileşim kurmanıza olanak tanıyan  bir araçtır.	
-https://github.com/sensepost/ruler
-
-[]()DueDLLigence	Uygulama beyaz listesi atlama ve DLL yandan yükleme için Shellcode runner çerçevesi.   Bu projede yer alan  kabuk kodu calc.exe ortaya çıkarır.	
-https://github.com/fireeye/DueDLLigence
-
-[]()RuralBishop	RuralBishop  pratik olarak  UrbanBishop'un b33f  tarafından karbon kopyasıdır  , ancak tüm P / Invoke çağrıları D / Invoke ile değiştirilmiştir. 	
-https://github.com/rasta-mouse/RuralBishop
+[InlineFısıltılar](https://github.com/outflanknl/InlineWhispers)	 Cobalt  Strike'ın Beacon  Object Files'ında  (BOF) Doğrudan Sistem   Çağrıları ile çalışmak için araç	
 
 
-[]()TikiTorch	TikiTorch,  Vincent Yiu tarafından CACTUSTORCH'a saygı amacıyla seçildi.    CACTUSTORCH'un  temel kavramı  , yeni bir işlem  oluşturması,  bir bellek  bölgesi ayırması ve  ardından bu  hedef işlem  içinde istenen kabuk kodunu çalıştırmak için CreateRemoteThread'i kullanmasıdır  .   Hem  işlem hem de  kabuk kodu kullanıcı  tarafından  belirtilir.  	
-
-https://github.com/rasta-mouse/TikiTorch
-[]()SharpShooter	SharpShooter, rastgele CSharp kaynak  kodunun alınması ve yürütülmesi  için bir yük oluşturma çerçevesidir.  SharpShooter  ,  HTA  , JS, V BS  ve WSF dahil olmak üzere çeşitli  formatlarda yükler  oluşturabilir.	
-https://github.com/mdsecactivebreach/SharpShooter
-[]()SharpSploit	SharpSploit,  C# ile yazılmış bir .NET istismar sonrası kitaplığıdır 	https://github.com/cobbr/SharpSploit
-MSBuildAPICaller	MSBuild olmadan MSBuild.exe	https://github.com/rvrsh3ll/MSBuildAPICaller
-
-[]()macro_pack	macro_pack,  @EmericNasi MS Office belgelerinin, VB komut dosyalarının ve pentest, demo ve sosyal mühendislik değerlendirmeleri için  diğer biçimlerin  gizlenmesini ve  oluşturulmasını   otomatikleştirmek için  kullanılan bir araçtır.	
-https://github.com/sevagas/macro_pack
-[]()inceptor	Şablon Odaklı AV/EDR Kaçınma Çerçevesi 	https://github.com/klezVirus/inceptor
-
-[]()mortar	 Güvenlik ürünlerinin tespitini  ve   önlenmesini yenmek ve yönlendirmek için kaçınma tekniği (AV / EDR / XDR)	
-https://github.com/0xsp-SRD/mortar
+[EvilClippy](https://github.com/outflanknl/EvilClippy)	 Kötü amaçlı MS Office belgeleri oluşturmak için platformlar arası bir yardımcı.  VBA makrolarını gizleyebilir,  VBA kodunu durdurabilir (P- Kodu aracılığıyla) ve makro analiz araçlarını  karıştırabilir. Linux, OSX ve Windows üzerinde çalışır.	
 
 
-[]()ProtectMyTooling	Multi-Packer sarmalayıcı, çeşitli paketleyicileri, gizlemecileri ve diğer Kırmızı Takım odaklı silahları papatya zinciri ile bağlamamızı sağlar.
+[OfficePurge](https://github.com/fireeye/OfficePurge)	VBA, OfficeUrge ile Office belgelerinizi temizleyin. VBA temizleme, Office belgeleri içindeki modül akışlarından P kodunu  kaldırır.	
+
+
+[ThreatCheck](https://github.com/rasta-mouse/ThreatCheck)	 Microsoft Defender / AMSI   Tüketicisinin bayrakladığı baytları tanımlar    .	
+
+[CrossC2](https://github.com/gloxec/CrossC2)	 CobaltStrike'ın platformlar arası yükünü oluşturun	
+
+[Ruler](https://github.com/sensepost/ruler)	  Ruler, MAPI/HTTP veya RPC/HTTP protokolü aracılığıyla   Exchange sunucularıyla uzaktan  etkileşim kurmanıza olanak tanıyan  bir araçtır.	
+
+
+[DueDLLigence](https://github.com/fireeye/DueDLLigence)	Uygulama beyaz listesi atlama ve DLL yandan yükleme için Shellcode runner çerçevesi.   Bu projede yer alan  kabuk kodu calc.exe ortaya çıkarır.	
+
+
+[RuralBishop](https://github.com/rasta-mouse/RuralBishop)	RuralBishop  pratik olarak  UrbanBishop'un b33f  tarafından karbon kopyasıdır  , ancak tüm P / Invoke çağrıları D / Invoke ile değiştirilmiştir. 	
+
+
+
+[TikiTorch](https://github.com/rasta-mouse/TikiTorch)	TikiTorch,  Vincent Yiu tarafından CACTUSTORCH'a saygı amacıyla seçildi.    CACTUSTORCH'un  temel kavramı  , yeni bir işlem  oluşturması,  bir bellek  bölgesi ayırması ve  ardından bu  hedef işlem  içinde istenen kabuk kodunu çalıştırmak için CreateRemoteThread'i kullanmasıdır  .   Hem  işlem hem de  kabuk kodu kullanıcı  tarafından  belirtilir.  	
+
+
+[SharpShooter](https://github.com/mdsecactivebreach/SharpShooter)	SharpShooter, rastgele CSharp kaynak  kodunun alınması ve yürütülmesi  için bir yük oluşturma çerçevesidir.  SharpShooter  ,  HTA  , JS, V BS  ve WSF dahil olmak üzere çeşitli  formatlarda yükler  oluşturabilir.	
+
+[SharpSploit](https://github.com/cobbr/SharpSploit)	SharpSploit,  C# ile yazılmış bir .NET istismar sonrası kitaplığıdır 	
+[MSBuildAPICaller](https://github.com/rvrsh3ll/MSBuildAPICaller)	MSBuild olmadan MSBuild.exe	
+
+[macro_pack](https://github.com/sevagas/macro_pack)	macro_pack,  @EmericNasi MS Office belgelerinin, VB komut dosyalarının ve pentest, demo ve sosyal mühendislik değerlendirmeleri için  diğer biçimlerin  gizlenmesini ve  oluşturulmasını   otomatikleştirmek için  kullanılan bir araçtır.	
+
+[inceptor](https://github.com/klezVirus/inceptor)	Şablon Odaklı AV/EDR Kaçınma Çerçevesi 	
+
+[mortar](https://github.com/0xsp-SRD/mortar)	 Güvenlik ürünlerinin tespitini  ve   önlenmesini yenmek ve yönlendirmek için kaçınma tekniği (AV / EDR / XDR)	
+
+
+
+[ProtectMyTooling](https://github.com/mgeeky/ProtectMyTooling)	Multi-Packer sarmalayıcı, çeşitli paketleyicileri, gizlemecileri ve diğer Kırmızı Takım odaklı silahları papatya zinciri ile bağlamamızı sağlar.
 Eserler filigranlama, IOC koleksiyonu ve PE Arka Kapı ile öne çıkan.       İmplantınızla  beslersiniz  , birçok sinsi  şey yapar  ve gizlenmiş yürütülebilir dosyayı tükürür.	
 
-https://github.com/mgeeky/ProtectMyTooling
-
-[]()Freeze	Freeze,  askıya alınmış işlemleri, doğrudan sistem çağrılarını ve alternatif yürütme yöntemlerini kullanarak EDR'leri atlamak için kullanılan bir yük araç  setidir	
-https://github.com/optiv/Freeze
- 
 
 
+[Freeze](https://github.com/optiv/Freeze)	Freeze,  askıya alınmış işlemleri, doğrudan sistem çağrılarını ve alternatif yürütme yöntemlerini kullanarak EDR'leri atlamak için kullanılan bir yük araç  setidir	
 
 
+## Phishing
+
+[o365-saldırı araç seti](https://github.com/mdsecactivebreach/o365-attack-toolkit)	Office365'e saldırmak için  bir araç seti	
+
+[Evilginx2](https://github.com/kgretzky/evilginx2)	Evilginx2, herhangi bir web hizmetinin kimlik  avı kimlik bilgileri ve oturum çerezleri için kullanılan ortadaki adam saldırı çerçevesidir. 	
 
 
+[Gophish](https://github.com/gophish/gophish)	Gophish, işletmeler ve sızma test uzmanları için tasarlanmış açık kaynaklı bir kimlik avı araç setidir.  Kimlik avı etkileşimlerini ve  güvenlik farkındalığı eğitimini hızlı ve kolay bir şekilde kurma  ve yürütme olanağı sağlar.	
 
 
-Phishing
+[PwnAuth](https://github.com/fireeye/PwnAuth)	PwnAuth,  OAuth kötüye kullanım kampanyalarını başlatmak ve yönetmek için bir web uygulaması çerçevesidir.	
 
-Ad	Tarif	URL
-[]()o365-
-saldırı araç seti	
- Office365'e saldırmak için  bir araç seti	
-https://github.com/mdsecactivebreach/o365- saldırı araç seti
 
-[]()Evilginx2	Evilginx2, herhangi bir web hizmetinin kimlik  avı kimlik bilgileri ve oturum çerezleri için kullanılan ortadaki adam saldırı çerçevesidir. 	
-https://github.com/kgretzky/evilginx2
+[Modlishka](https://github.com/drk1wi/Modlishka)	Modlishka,  etik kimlik avı    kampanyalarınızı bir  sonraki seviyeye    taşıyacak  esnek ve  güçlü bir ters proxy'dir.  	
 
-[]()Gophish	Gophish, işletmeler ve sızma test uzmanları için tasarlanmış açık kaynaklı bir kimlik avı araç setidir.  Kimlik avı etkileşimlerini ve  güvenlik farkındalığı eğitimini hızlı ve kolay bir şekilde kurma  ve yürütme olanağı sağlar.	
-https://github.com/gophish/gophish
 
-[]()PwnAuth	PwnAuth,  OAuth kötüye kullanım kampanyalarını başlatmak ve yönetmek için bir web uygulaması çerçevesidir.	
-https://github.com/fireeye/PwnAuth
+## Watering Hole Attack
 
-[]()Modlishka	Modlishka,  etik kimlik avı    kampanyalarınızı bir  sonraki seviyeye    taşıyacak  esnek ve  güçlü bir ters proxy'dir.  	
-https://github.com/drk1wi/Modlishka
 
-Watering Hole Attack
+[BeEF](https://github.com/beefproject/beef)	BeEF,   The Browser Exploitation Framework'ün kısaltmasıdır  .  Web   tarayıcısına odaklanan   bir penetrasyon testi aracıdır 	
 
-Ad	Tarif	URL
 
-[]()BeEF	BeEF,   The Browser Exploitation Framework'ün kısaltmasıdır  .  Web   tarayıcısına odaklanan   bir penetrasyon testi aracıdır 	
-https://github.com/beefproject/beef
+## Command and Control Uzaktan Erişim Araçları (RAT)
 
- Command and Control
-Uzaktan Erişim Araçları (RAT)
 
-Ad	Tarif	URL
+[Cobalt Strike](https://cobaltstrike.com/)	Cobalt Strike,  Düşman Simülasyonları ve Kırmızı Takım Operasyonları için bir yazılımdır. 	
 
- []()Cobalt Strike	Cobalt Strike,  Düşman Simülasyonları ve Kırmızı Takım Operasyonları için bir yazılımdır. 	
-https://cobaltstrike.com/
 
-[]()Empire	Empire 3   ,  saf PowerShell Windows aracısı ve Python 3.x Linux/OS X aracılarıyla  uyumluluk içeren bir istismar sonrası çerçevedir.	
-https://github.com/BC-SECURITY/Empire
+[Empire](https://github.com/BC-SECURITY/Empire)	Empire 3   ,  saf PowerShell Windows aracısı ve Python 3.x Linux/OS X aracılarıyla  uyumluluk içeren bir istismar sonrası çerçevedir.	
 
-[]()PoshC2	PoshC2, penetrasyon test edicilere kırmızı takımlama, sömürü sonrası ve yanal hareket  ile yardımcı olmak için kullanılan proxy bilinçli bir C2  çerçevesidir.	
-https://github.com/nettitude/PoshC2
-[]()Koadic	Koadic C3 COM Komuta  ve Kontrol - JScript RAT	https://github.com/zerosum0x0/koadic
 
-[]()Merlin	Merlin, Go'da  yazılmış  platformlar arası bir  sömürü sonrası Komuta ve  Kontrol sunucusu ve aracısıdır. 	
-https://github.com/Ne0nd0g/merlin
+[PoshC2](https://github.com/nettitude/PoshC2)	PoshC2, penetrasyon test edicilere kırmızı takımlama, sömürü sonrası ve yanal hareket  ile yardımcı olmak için kullanılan proxy bilinçli bir C2  çerçevesidir.	
 
-[]()Mythic	 python3, docker,  docker-compose  ve bir web tarayıcısı kullanıcı arabirimi ile oluşturulmuş platformlar arası,  istismar sonrası,  kırmızı ekip oluşturma çerçevesi.	
-https://github.com/its-a-feature/Mythic
+[Koadic](https://github.com/zerosum0x0/koadic)	Koadic C3 COM Komuta  ve Kontrol - JScript RAT	
 
-[]()Covenant	Covenant, .NET'in saldırı    yüzeyini vurgulamayı  , saldırgan .NET   tradecraft'ın kullanımını  kolaylaştırmayı ve  kırmızı takım oyuncuları  için işbirliğine dayalı bir komut ve  denetim platformu olarak hizmet vermeyi amaçlayan bir .NET komut ve denetim  çerçevesidir.	
-https://github.com/cobbr/Covenant
+[Merlin](https://github.com/Ne0nd0g/merlin)	Merlin, Go'da  yazılmış  platformlar arası bir  sömürü sonrası Komuta ve  Kontrol sunucusu ve aracısıdır. 	
 
-[]()shad0w	 Yoğun olarak  izlenen ortamlarda gizlice   çalışmak üzere tasarlanmış bir  istismar sonrası çerçeve	
-https://github.com/bats3c/shad0w
 
-[]()Sliver	Sliver,  Mutual-TLS, HTTP (S)  ve DNS  üzerinden C2'yi  destekleyen genel amaçlı bir çapraz platform implant çerçevesidir.	
-https://github.com/BishopFox/sliver
+[Mythic](https://github.com/its-a-feature/Mythic)	 python3, docker,  docker-compose  ve bir web tarayıcısı kullanıcı arabirimi ile oluşturulmuş platformlar arası,  istismar sonrası,  kırmızı ekip oluşturma çerçevesi.	
 
-[]()SILENTTRINITY	      Python ve  . NET'in DLR'si 	
-https://github.com/byt3bl33d3r/SILENTTRINITY
-	Pupy  açık kaynaklı,  çapraz platformlu (Windows,  Linux,  OSX,	
- 
 
-[]()pupy	
-Android) uzaktan yönetim ve sömürü sonrası araç 
-ağırlıklı olarak python ile yazılmıştır
+[Covenant](https://github.com/cobbr/Covenant)	Covenant, .NET'in saldırı    yüzeyini vurgulamayı  , saldırgan .NET   tradecraft'ın kullanımını  kolaylaştırmayı ve  kırmızı takım oyuncuları  için işbirliğine dayalı bir komut ve  denetim platformu olarak hizmet vermeyi amaçlayan bir .NET komut ve denetim  çerçevesidir.	
+
+
+[shad0w](https://github.com/bats3c/shad0w)	 Yoğun olarak  izlenen ortamlarda gizlice   çalışmak üzere tasarlanmış bir  istismar sonrası çerçeve	
+
+
+[Sliver](https://github.com/BishopFox/sliver)	Sliver,  Mutual-TLS, HTTP (S)  ve DNS  üzerinden C2'yi  destekleyen genel amaçlı bir çapraz platform implant çerçevesidir.	
+
+
+[SILENTTRINITY](https://github.com/byt3bl33d3r/SILENTTRINITY)	      Python ve  . NET'in DLR'si 	
+
 	
-https://github.com/n1nj4sec/pupy 
 
-[]()Havoc	Havoc, @C5pider  tarafından oluşturulan modern ve şekillendirilebilir bir sömürü sonrası komuta ve kontrol çerçevesidir. 	
-https://github.com/HavocFramework/Havoc
-
-Staging
-
-Ad	Tarif	URL
-
-[]()pwndrop	 Kırmızı takım üyeleri için kendi kendine dağıtılabilen dosya barındırma hizmeti,  HTTP ve  WebDAV üzerinden yükleri kolayca karşıya yüklemeye ve paylaşmaya olanak tanır. 	
-https://github.com/kgretzky/pwndrop
-
-[]()C2concealer	  Cobalt  Strike'ta kullanılmak üzere rastgele C2 dövülebilir profiller oluşturan bir komut satırı aracı.	
-https://github.com/FortyNorthSecurity/C2concealer
-FindFrontableDomains	 Potansiyel önlenebilir etki alanlarını arama	https://github.com/rvrsh3ll/FindFrontableDomains
-
-[]()Domain Hunter	 Kimlik avı ve  C2 alan  adları için iyi adayları belirlemek üzere süresi dolmuş  etki alanlarını kategorizasyon/itibar  ve Archive.org geçmişi  açısından kontrol eder	
-https://github.com/threatexpress/domainhunter
-[]()RedWarden	Esnek CobaltStrike Dövülebilir Yeniden Yönlendirici	https://github.com/mgeeky/RedWarden
-
-[]()AzureC2Relay	AzureC2Relay,  gelen istekleri bir Cobalt Strike   Dövülebilir C2 profiline göre  doğrulayarak Cobalt Strike beacon trafiğini doğrulayan    ve  geçiren bir Azure İşlevidir. 	
-https://github.com/Flangvik/AzureC2Relay
-
-[]()C3 	C3 (Özel Komuta ve  Kontrol),  Kırmızı  Ekiplerin ezoterik komuta ve  kontrol kanallarını (C2) hızla geliştirmesine   ve kullanmasına olanak tanıyan  bir araçtır.	
-https://github.com/FSecureLABS/C3
-[]()Chameleon	 Proxy kategorizasyonundan kaçınmak için bir araç	https://github.com/mdsecactivebreach/Chameleon
-[]()Cobalt Strike Malleable C2 Design and Reference Guide	
-Cobalt Strike Dövülebilir C2 Tasarım ve Referans Kılavuzu 	
-https://github.com/threatexpress/malleable-c2/
-[]()redirect.rules	Hızlı ve kirli dinamik redirect.rules üreteci	https://github.com/0xZDH/redirect.rules
-
-[]()CobaltBus	Azure Servicebus ile Cobalt  Strike Dış C2  Tümleştirmesi,  Azure Servicebus aracılığıyla  C2 trafiği 	
-https://github.com/Flangvik/CobaltBus
-[]()SourcePoint	SourcePoint, kaçışı sağlamak  için tasarlanmış  Cobalt Strike komuta ve kontrol sunucuları için bir C2 profil üreticisidir.	
-https://github.com/Tylous/SourcePoint
-
-[]()RedGuard	RedGuard  bir C2 ön akış kontrol aracıdır, Mavi Takımlar, AV'ler, EDR'lerin  kontrolünden kaçınabilir.	
-https://github.com/wikiZ/RedGuard
+[pupy](https://github.com/n1nj4sec/pupy ) Pupy  açık kaynaklı,  çapraz platformlu (Windows,  Linux,  OSX,Android) uzaktan yönetim ve sömürü sonrası araç ağırlıklı olarak python ile yazılmıştır
+	
 
 
+[Havoc](https://github.com/HavocFramework/Havoc)	Havoc, @C5pider  tarafından oluşturulan modern ve şekillendirilebilir bir sömürü sonrası komuta ve kontrol çerçevesidir. 	
 
 
+## Staging
 
 
-
-Log Aggregation
-
-Ad	Tarif	URL
-
-[]()RedELK	Red Team'in SIEM'i -  Mavi Takım  faaliyetlerini    izlemek ve  alarma geçirmek  ve   uzun vadeli operasyonlarda daha iyi kullanılabilirlik için kullanılan Kırmızı Takımlar için bir araç  .	
-https://github.com/outflanknl/RedELK
-Elastic for Red Teaming	
-
-[]() Elastik kullanarak  bir Red Team SIEM yapılandırmak için  kaynak deposu.	
-https://github.com/SecurityRiskAdvisors/RedTeamSIEM
+[pwndrop](https://github.com/kgretzky/pwndrop)	 Kırmızı takım üyeleri için kendi kendine dağıtılabilen dosya barındırma hizmeti,  HTTP ve  WebDAV üzerinden yükleri kolayca karşıya yüklemeye ve paylaşmaya olanak tanır. 	
 
 
-Situational Awareness
-Host Situational Awareness
+[C2concealer](https://github.com/FortyNorthSecurity/C2concealer)	  Cobalt  Strike'ta kullanılmak üzere rastgele C2 dövülebilir profiller oluşturan bir komut satırı aracı.	
 
-Ad	Tarif	URL
+[FindFrontableDomains](https://github.com/rvrsh3ll/FindFrontableDomains)	 Potansiyel önlenebilir etki alanlarını arama	
+
+[Domain Hunter](https://github.com/threatexpress/domainhunter)	 Kimlik avı ve  C2 alan  adları için iyi adayları belirlemek üzere süresi dolmuş  etki alanlarını kategorizasyon/itibar  ve Archive.org geçmişi  açısından kontrol eder	
+
+[RedWarden](https://github.com/mgeeky/RedWarden)	Esnek CobaltStrike Dövülebilir Yeniden Yönlendirici	
+
+[AzureC2Relay](https://github.com/Flangvik/AzureC2Relay)	AzureC2Relay,  gelen istekleri bir Cobalt Strike   Dövülebilir C2 profiline göre  doğrulayarak Cobalt Strike beacon trafiğini doğrulayan    ve  geçiren bir Azure İşlevidir. 	
 
 
-[]()Agresif Proxy	AggressiveProxy, bir .NET 3.5 ikili dosyasının (LetMeOutSharp) ve bir Cobalt Strike saldırgan komut dosyasının (AggressiveProxy.cna) birleşimidir.   LetMeOutSharp  bir iş  istasyonunda yürütüldükten sonra, mevcut tüm proxy yapılandırmalarını numaralandırmaya ve  tanımlanan proxy yapılandırmalarını  kullanarak  HTTP  (ler) üzerinden Cobalt Strike sunucusuyla iletişim kurmaya çalışacaktır  .	
+[C3](https://github.com/FSecureLABS/C3) 	C3 (Özel Komuta ve  Kontrol),  Kırmızı  Ekiplerin ezoterik komuta ve  kontrol kanallarını (C2) hızla geliştirmesine   ve kullanmasına olanak tanıyan  bir araçtır.	
 
-https://github.com/EncodeGroup/AggressiveProxy
-[]()Gopher	 Düşük asılı meyveleri keşfetmek için C# aracı	https://github.com/EncodeGroup/Gopher
+[Chameleon](https://github.com/mdsecactivebreach/Chameleon)	 Proxy kategorizasyonundan kaçınmak için bir araç	
+[Cobalt Strike Malleable C2 Design and Reference Guide](https://github.com/threatexpress/malleable-c2/)	Cobalt Strike Dövülebilir C2 Tasarım ve Referans Kılavuzu 	
+
+[redirect.rules	](https://github.com/0xZDH/redirect.rules)	Hızlı ve kirli dinamik redirect.rules üreteci	
+
+[CobaltBus](https://github.com/Flangvik/CobaltBus)	Azure Servicebus ile Cobalt  Strike Dış C2  Tümleştirmesi,  Azure Servicebus aracılığıyla  C2 trafiği 	
+
+[SourcePoint](https://github.com/Tylous/SourcePoint)	SourcePoint, kaçışı sağlamak  için tasarlanmış  Cobalt Strike komuta ve kontrol sunucuları için bir C2 profil üreticisidir.	
 
 
-[]()SharpEDRChecker	 Çalışan işlemleri,  işlem meta verilerini,  geçerli işleminize  yüklenen  Dll'leri ve her DLL'nin meta verilerini, ortak  yükleme dizinlerini, yüklü  hizmetleri ve her  hizmet ikili dosyaları meta  verilerini, yüklü sürücüleri ve her sürücü      meta verisini denetler.  AV'ler, EDR'ler ve logging araçları gibi bilinen savunma ürünlerinin varlığı.	
+[RedGuard](https://github.com/wikiZ/RedGuard)	RedGuard  bir C2 ön akış kontrol aracıdır, Mavi Takımlar, AV'ler, EDR'lerin  kontrolünden kaçınabilir.	
 
-https://github.com/PwnDexter/SharpEDRChecker
+## Log Aggregation
 
-[]()Situational Awareness BOF	Bu Repo iki amaca hizmet etmeyi amaçlamaktadır.  İlk olarak,   BOF'ta uygulanan güzel bir dizi temel durumsal farkındalık komutu   sağlar  .	
-https://github.com/trustedsec/CS-Situational- Farkındalık-BOF
 
-[]()Seatbelt	Emniyet kemeri,  hem  saldırı  hem de savunma  güvenlik perspektifleriyle  ilgili bir    dizi güvenlik  odaklı ev sahibi anketi "güvenlik kontrolü"  gerçekleştiren bir  C# projesidir.	
-https://github.com/GhostPack/Seatbelt
+[RedELK](https://github.com/outflanknl/RedELK)	Red Team'in SIEM'i -  Mavi Takım  faaliyetlerini    izlemek ve  alarma geçirmek  ve   uzun vadeli operasyonlarda daha iyi kullanılabilirlik için kullanılan Kırmızı Takımlar için bir araç  .	
 
-[]()SauronEye	SauronEye,  kırmızı ekiplerin belirli anahtar kelimeleri  içeren dosyaları bulmalarına  yardımcı olmak için oluşturulmuş bir arama  aracıdır. 	
-https://github.com/vivami/SauronEye
-[]()SharpShares	Bir    etki alanındaki erişilebilir ağ paylaşımlarını numaralandırmak için çok iş parçacıklı C# .NET derlemesi	
-https://github.com/mitchmoser/SharpShares
+## Elastic for Red Teaming	
 
-[]()SharpAppLocker	 Genişletilmiş özelliklere sahip  Get-AppLockerPolicy PowerShell cmdlet'inin C# bağlantı noktası.  Belirli bir  kural ve eylem  türünü   filtreleme ve arama  yeteneğini içerir  .	
-https://github.com/Flangvik/SharpAppLocker/
-[]()SharpPrinter	Yazıcı,  ListNetworks'ün değiştirilmiş ve konsol sürümüdür 	https://github.com/rvrsh3ll/SharpPrinter
- 
+[RedTeamSIEM](https://github.com/SecurityRiskAdvisors/RedTeamSIEM) Elastik kullanarak  bir Red Team SIEM yapılandırmak için  kaynak deposu.	
 
-Domain Situational Awareness
 
-Ad	Tarif	URL
+## Situational Awareness
+### Host Situational Awareness
 
-[]()StandIn	StandIn, küçük  bir  AD uzlaşma sonrası araç setidir.  StandIn ortaya çıktı  çünkü son zamanlarda xforcered'da kaynak tabanlı kısıtlı temsilci seçme gerçekleştirmek için bir .NET yerel çözümüne ihtiyacımız vardı.	
-https://github.com/FuzzySecurity/StandIn
-[]()Recon-AD	 ADSI ve yansıtıcı DLL'leri temel alan  bir AD düzeltme aracı	https://github.com/outflanknl/Recon-AD
-[]()Bloodhound	 Etki Alanı  Yöneticisinin Altı Derecesi 	https://github.com/BloodHoundAD/BloodHound
 
-[]()PSPKIAudit	 Active Directory Sertifika Hizmetleri'ni (AD CS) denetlemek için PowerShell araç seti.	
-https://github.com/GhostPack/PSPKIAudit
-[]()SharpView	 C# harmj0y'nin PowerView uygulamasının uygulanması 	https://github.com/tevora-threat/SharpView
+[Agresif Proxy](https://github.com/EncodeGroup/AggressiveProxy)	AggressiveProxy, bir .NET 3.5 ikili dosyasının (LetMeOutSharp) ve bir Cobalt Strike saldırgan komut dosyasının (AggressiveProxy.cna) birleşimidir.   LetMeOutSharp  bir iş  istasyonunda yürütüldükten sonra, mevcut tüm proxy yapılandırmalarını numaralandırmaya ve  tanımlanan proxy yapılandırmalarını  kullanarak  HTTP  (ler) üzerinden Cobalt Strike sunucusuyla iletişim kurmaya çalışacaktır  .	
 
-[]()Rubeus	Rubeus, ham Kerberos etkileşimi ve kötüye kullanımları için bir C# araç setidir.    Benjamin Delpy'nin Kekeo projesinden (CC BY-NC-SA) büyük ölçüde uyarlanmıştır.
-4.0 lisansı) ve Vincent LE TOUX'nun MakeMeEnterpriseAdmin projesi (GPL v3.0 lisansı).	
-https://github.com/GhostPack/Rubeus
 
-[]()Grouper	 AD Grup İlkesi'nde güvenlik açığından etkilenen ayarları   bulmaya yardımcı olmak için bir PowerShell betiği.  (kullanım dışı, bunun yerine Grouper2 kullanın!)	
-https://github.com/l0ss/Grouper
-[]()ImproHound	 BloodHound'da   AD katmanınızı kıran  saldırı yollarını belirleyin	https://github.com/improsec/ImproHound
+[Gopher](https://github.com/EncodeGroup/Gopher)	 Düşük asılı meyveleri keşfetmek için C# aracı	
 
-[]()ADRecon	   ADRecon, Active Directory hakkında bilgi toplayan  ve hedef AD    ortamının geçerli durumunun bütünsel bir  resmini sağlayabilen bir  rapor oluşturan  bir araçtır  .	
-https://github.com/adrecon/ADRecon
-	Active   Directory ağındaki ayrıcalıkları  zorlamak suretiyle yükseltmek için bir araç 	
- 
+
+[SharpEDRChecker](https://github.com/PwnDexter/SharpEDRChecker)	 Çalışan işlemleri,  işlem meta verilerini,  geçerli işleminize  yüklenen  Dll'leri ve her DLL'nin meta verilerini, ortak  yükleme dizinlerini, yüklü  hizmetleri ve her  hizmet ikili dosyaları meta  verilerini, yüklü sürücüleri ve her sürücü      meta verisini denetler.  AV'ler, EDR'ler ve logging araçları gibi bilinen savunma ürünlerinin varlığı.	
 
 
 
+[Situational Awareness BOF](https://github.com/trustedsec/CS-Situational-Awareness-BOF)	Bu Repo iki amaca hizmet etmeyi amaçlamaktadır.  İlk olarak,   BOF'ta uygulanan güzel bir dizi temel durumsal farkındalık komutu   sağlar  .	
 
-[]()ADCSPwn	
+
+[Seatbelt](https://github.com/GhostPack/Seatbelt)	Emniyet kemeri,  hem  saldırı  hem de savunma  güvenlik perspektifleriyle  ilgili bir    dizi güvenlik  odaklı ev sahibi anketi "güvenlik kontrolü"  gerçekleştiren bir  C# projesidir.	
+
+
+[SauronEye](https://github.com/vivami/SauronEye)	SauronEye,  kırmızı ekiplerin belirli anahtar kelimeleri  içeren dosyaları bulmalarına  yardımcı olmak için oluşturulmuş bir arama  aracıdır. 	
+
+[SharpShares](https://github.com/mitchmoser/SharpShares)	Bir    etki alanındaki erişilebilir ağ paylaşımlarını numaralandırmak için çok iş parçacıklı C# .NET derlemesi	
+
+
+[SharpAppLocker](https://github.com/Flangvik/SharpAppLocker/)	 Genişletilmiş özelliklere sahip  Get-AppLockerPolicy PowerShell cmdlet'inin C# bağlantı noktası.  Belirli bir  kural ve eylem  türünü   filtreleme ve arama  yeteneğini içerir  .	
+
+[SharpPrinter](https://github.com/rvrsh3ll/SharpPrinter
+ )	Yazıcı,  ListNetworks'ün değiştirilmiş ve konsol sürümüdür 	
+
+## Domain Situational Awareness
+
+
+[StandIn](https://github.com/FuzzySecurity/StandIn)	StandIn, küçük  bir  AD uzlaşma sonrası araç setidir.  StandIn ortaya çıktı  çünkü son zamanlarda xforcered'da kaynak tabanlı kısıtlı temsilci seçme gerçekleştirmek için bir .NET yerel çözümüne ihtiyacımız vardı.	
+
+[Recon-AD](https://github.com/outflanknl/Recon-AD)	 ADSI ve yansıtıcı DLL'leri temel alan  bir AD düzeltme aracı	
+
+[Bloodhound](https://github.com/BloodHoundAD/BloodHound)	 Etki Alanı  Yöneticisinin Altı Derecesi 	
+
+[PSPKIAudit](https://github.com/GhostPack/PSPKIAudit)	 Active Directory Sertifika Hizmetleri'ni (AD CS) denetlemek için PowerShell araç seti.	
+
+[SharpView](https://github.com/tevora-threat/SharpView)	 C# harmj0y'nin PowerView uygulamasının uygulanması 4.0 lisansı ve Vincent LE TOUX'nun MakeMeEnterpriseAdmin projesi (GPL v3.0 lisansı).	
+
+
+[Grouper](https://github.com/l0ss/Grouper)	 AD Grup İlkesi'nde güvenlik açığından etkilenen ayarları   bulmaya yardımcı olmak için bir PowerShell betiği.  (kullanım dışı, bunun yerine Grouper2 kullanın!)	
+
+[ImproHound](https://github.com/improsec/ImproHound)	 BloodHound'da   AD katmanınızı kıran  saldırı yollarını belirleyin	
+
+[ADRecon](https://github.com/adrecon/ADRecon)	   ADRecon, Active Directory hakkında bilgi toplayan  ve hedef AD    ortamının geçerli durumunun bütünsel bir  resmini sağlayabilen bir  rapor oluşturan  bir araçtır  .	
+
+[ADCSPwn](https://github.com/bats3c/ADCSPwn)	Active   Directory ağındaki ayrıcalıkları  zorlamak suretiyle yükseltmek için bir araç 
 makine hesaplarından (Petitpotam) kimlik doğrulaması yapın ve sertifika hizmeti.	
-https://github.com/bats3c/ADCSPwn
 		
 
-Kimlik Bilgileri Dökümü
+## Kimlik Bilgileri Dökümü
 
-Ad	Tarif	URL
 
 Mimikatz	Mimikatz, kullanıcıların Kerberos biletleri gibi kimlik  doğrulama kimlik bilgilerini görüntülemesine ve  kaydetmesine olanak tanıyan açık kaynaklı bir uygulamadır. 	
 https://github.com/gentilkiwi/mimikatz
