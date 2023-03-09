@@ -80,8 +80,7 @@ Gitleaks,  git depolarındaki parolalar, api anahtarları ve belirteçler gibi s
 
 [OfficePurge](https://github.com/fireeye/OfficePurge)	VBA, OfficeUrge ile Office belgelerinizi temizleyin. VBA temizleme, Office belgeleri içindeki modül akışlarından P kodunu  kaldırır.	
 
-[ThreatCheck](https://github.com/rasta-mouse/ThreatCheck)	 Microsoft Defender / AMSI   Tüketicisinin bayrakladığı baytları tanımlar.
-
+[ThreatCheck](https://github.com/rasta-mouse/ThreatCheck)	 Microsoft Defender / AMSI   Tüketicisinin bayrakladığı baytları tanımlar.	
 [CrossC2](https://github.com/gloxec/CrossC2)	 CobaltStrike'ın platformlar arası yükünü oluşturun	
 
 [Ruler](https://github.com/sensepost/ruler)	  Ruler, MAPI/HTTP veya RPC/HTTP protokolü aracılığıyla   Exchange sunucularıyla uzaktan  etkileşim kurmanıza olanak tanıyan  bir araçtır.	
@@ -94,7 +93,8 @@ Gitleaks,  git depolarındaki parolalar, api anahtarları ve belirteçler gibi s
 
 [SharpShooter](https://github.com/mdsecactivebreach/SharpShooter)	SharpShooter, rastgele CSharp kaynak  kodunun alınması ve yürütülmesi  için bir yük oluşturma çerçevesidir.  SharpShooter  ,  HTA  , JS, V BS  ve WSF dahil olmak üzere çeşitli  formatlarda yükler  oluşturabilir.	
 
-[SharpSploit](https://github.com/cobbr/SharpSploit)	SharpSploit,  C# ile yazılmış bir .NET istismar sonrası kitaplığıdır 	
+[SharpSploit](https://github.com/cobbr/SharpSploit)	SharpSploit,  C# ile yazılmış bir .NET istismar sonrası kitaplığıdır 
+
 [MSBuildAPICaller](https://github.com/rvrsh3ll/MSBuildAPICaller)	MSBuild olmadan MSBuild.exe	
 
 [macro_pack](https://github.com/sevagas/macro_pack)	macro_pack,  @EmericNasi MS Office belgelerinin, VB komut dosyalarının ve pentest, demo ve sosyal mühendislik değerlendirmeleri için  diğer biçimlerin  gizlenmesini ve  oluşturulmasını   otomatikleştirmek için  kullanılan bir araçtır.	
@@ -132,7 +132,8 @@ Eserler filigranlama, IOC koleksiyonu ve PE Arka Kapı ile öne çıkan.       �
 ## Command and Control Uzaktan Erişim Araçları (RAT)
 
 
-[Cobalt Strike](https://cobaltstrike.com/)	Cobalt Strike,  Düşman Simülasyonları ve Kırmızı Takım Operasyonları için bir yazılımdır. 	
+[Cobalt Strike](https://cobaltstrike.com/)	Cobalt Strike,  Düşman Simülasyonları ve Kırmızı Takım Operasyonları için bir yazılımdır.
+
 [Empire](https://github.com/BC-SECURITY/Empire)	Empire 3   ,  saf PowerShell Windows aracısı ve Python 3.x Linux/OS X aracılarıyla  uyumluluk içeren bir istismar sonrası çerçevedir.	
 
 [PoshC2](https://github.com/nettitude/PoshC2)	PoshC2, penetrasyon test edicilere kırmızı takımlama, sömürü sonrası ve yanal hareket  ile yardımcı olmak için kullanılan proxy bilinçli bir C2  çerçevesidir.	
@@ -171,9 +172,10 @@ Eserler filigranlama, IOC koleksiyonu ve PE Arka Kapı ile öne çıkan.       �
 
 [AzureC2Relay](https://github.com/Flangvik/AzureC2Relay)	AzureC2Relay,  gelen istekleri bir Cobalt Strike   Dövülebilir C2 profiline göre  doğrulayarak Cobalt Strike beacon trafiğini doğrulayan    ve  geçiren bir Azure İşlevidir. 	
 
-[C3](https://github.com/FSecureLABS/C3) 	C3 (Özel Komuta ve  Kontrol),  Kırmızı  Ekiplerin ezoterik komuta ve  kontrol kanallarını (C2) hızla geliştirmesine   ve kullanmasına olanak tanıyan  bir araçtır.	
+[C3](https://github.com/FSecureLABS/C3) 	C3 (Özel Komuta ve  Kontrol),  Kırmızı  Ekiplerin ezoterik komuta ve  kontrol kanallarını (C2) hızla geliştirmesine   ve kullanmasına olanak tanıyan  bir araçtır.
 
-[Chameleon](https://github.com/mdsecactivebreach/Chameleon)	 Proxy kategorizasyonundan kaçınmak için bir araç	
+
+[Chameleon](https://githubcom/mdsecactivebreach/Chameleon)	 Proxy kategorizasyonundan kaçınmak için bir araç	
 [Cobalt Strike Malleable C2 Design and Reference Guide](https://github.com/threatexpress/malleable-c2/)	Cobalt Strike Dövülebilir C2 Tasarım ve Referans Kılavuzu 	
 
 [redirect.rules	](https://github.com/0xZDH/redirect.rules)	Hızlı ve kirli dinamik redirect.rules üreteci	
@@ -205,8 +207,9 @@ Eserler filigranlama, IOC koleksiyonu ve PE Arka Kapı ile öne çıkan.       �
 
 [Gopher](https://github.com/EncodeGroup/Gopher)	 Düşük asılı meyveleri keşfetmek için C# aracı	
 
-[SharpEDRChecker](https://github.com/PwnDexter/SharpEDRChecker)	 Çalışan işlemleri,  işlem meta verilerini,  geçerli işleminize  yüklenen  Dll'leri ve her DLL'nin meta verilerini, ortak  yükleme dizinlerini, yüklü  hizmetleri ve her  hizmet ikili dosyaları meta  verilerini, yüklü sürücüleri ve her sürücü      meta verisini denetler.  AV'ler, EDR'ler ve logging araçları gibi bilinen savunma ürünlerinin varlığı.	
-[Situational Awareness BOF](https://github.com/trustedsec/CS-Situational-Awareness-BOF)	Bu Repo iki amaca hizmet etmeyi amaçlamaktadır.  İlk olarak,   BOF'ta uygulanan güzel bir dizi temel durumsal farkındalık komutu   sağlar  .	
+[SharpEDRChecker](https://github.com/PwnDexter/SharpEDRChecker)	 Çalışan işlemleri,  işlem meta verilerini,  geçerli işleminize  yüklenen  Dll'leri ve her DLL'nin meta verilerini, ortak  yükleme dizinlerini, yüklü  hizmetleri ve her  hizmet ikili dosyaları meta  verilerini, yüklü sürücüleri ve her sürücü      meta verisini denetler.  AV'ler, EDR'ler ve logging araçları gibi bilinen savunma ürünlerinin varlığı.
+
+[Situational Awareness BOF](https://github.com/trustedsec/CS-Situational-Awareness-BOF)	Bu Repo iki amaca hizmet etmeyi amaçlamaktadır.  İlk olarak,   BOF'ta uygulanan güzel bir dizi temel durumsal farkındalık komutu   sağlar  .
 
 [Seatbelt](https://github.com/GhostPack/Seatbelt)	Emniyet kemeri,  hem  saldırı  hem de savunma  güvenlik perspektifleriyle  ilgili bir    dizi güvenlik  odaklı ev sahibi anketi "güvenlik kontrolü"  gerçekleştiren bir  C# projesidir.	
 
