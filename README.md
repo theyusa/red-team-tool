@@ -476,8 +476,7 @@ Compass	Tehdit modelleme yardımcısı ve  mor ekip içerik deposu, güvenlik ve
 ### Amazon Web Services (AWS)
 
 
-[]()pacu	 Amazon Web Services ortamlarının güvenliğini test etmek için tasarlanmış AWS istismar çerçevesi.	
-https://github.com/RhinoSecurityLabs/pacu
+[pacu](https://github.com/RhinoSecurityLabs/pacu)	 Amazon Web Services ortamlarının güvenliğini test etmek için tasarlanmış AWS istismar çerçevesi.	
 
 [CloudMapper](https://github.com/duo-labs/cloudmapper)	CloudMapper,  Amazon Web Services (AWS) ortamlarınızı analiz etmenize yardımcı olur.	
 
