@@ -526,10 +526,11 @@ https://github.com/RhinoSecurityLabs/pacu
 ## Red Team Scripts
 
 
-[RedTeamCCode](https://github.com/Mr- Un1k0d3r/RedTeamCCode)	Kırmızı Takım C kod deposu	
+[RedTeamCCode](https://github.com/Mr-Un1k0d3r/RedTeamCCode)	Kırmızı Takım C kod deposu	
 
-[EDRs](https://github.com/Mr- Un1k0d3r/EDRs)	Bu depo, kırmızı takım egzersizi sırasında yararlı  olabilecek EDR'ler  hakkında bilgi içerir.	
-[Cobalt Strike](https://cobalt- strike.github.io/ community_kit/) Community Kit	Community Kit, Cobalt  Strike'ın yeteneklerini genişletmek  için kullanıcı topluluğu tarafından yazılan uzantıların merkezi bir deposudur. 	
+[EDRs](https://github.com/Mr-Un1k0d3r/EDRs)	Bu depo, kırmızı takım egzersizi sırasında yararlı  olabilecek EDR'ler  hakkında bilgi içerir.	
+
+[Cobalt Strike](https://cobalt-strike.github.io/community_kit/) Community Kit	Community Kit, Cobalt  Strike'ın yeteneklerini genişletmek  için kullanıcı topluluğu tarafından yazılan uzantıların merkezi bir deposudur. 	
  
 
 
