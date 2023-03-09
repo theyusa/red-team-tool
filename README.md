@@ -249,315 +249,312 @@ makine hesaplarından (Petitpotam) kimlik doğrulaması yapın ve sertifika hizm
 ## Kimlik Bilgileri Dökümü
 
 
-Mimikatz	Mimikatz, kullanıcıların Kerberos biletleri gibi kimlik  doğrulama kimlik bilgilerini görüntülemesine ve  kaydetmesine olanak tanıyan açık kaynaklı bir uygulamadır. 	
+[]()Mimikatz	Mimikatz, kullanıcıların Kerberos biletleri gibi kimlik  doğrulama kimlik bilgilerini görüntülemesine ve  kaydetmesine olanak tanıyan açık kaynaklı bir uygulamadır. 	
 https://github.com/gentilkiwi/mimikatz
 
-Dumpert	 Doğrudan sistem çağrılarını ve API bağlantısını  kesmeyi kullanan LSASS bellek damperi.	
+[]()Dumpert	 Doğrudan sistem çağrılarını ve API bağlantısını  kesmeyi kullanan LSASS bellek damperi.	
 https://github.com/outflanknl/Dumpert
 
 
-CredBandit	CredBandit,    bir  işlemin bellek dökümünde tam  bir  işlem gerçekleştirmek ve bunu zaten var olan Beacon  iletişim kanalınız aracılığıyla geri göndermek için  statik x64 syscalls kullanan  bir kavram kanıtı Beacon  Object File (BOF) öğesidir  .	
+[]()CredBandit	CredBandit,    bir  işlemin bellek dökümünde tam  bir  işlem gerçekleştirmek ve bunu zaten var olan Beacon  iletişim kanalınız aracılığıyla geri göndermek için  statik x64 syscalls kullanan  bir kavram kanıtı Beacon  Object File (BOF) öğesidir  .	
 
 https://github.com/xforcered/CredBandit
 
-CloneVault	CloneVault,   kırmızı takım operatörünün  Windows  Kimlik Bilgileri Yöneticisi'nden öznitelikler  de dahil olmak üzere girişleri dışarı ve içe aktarmasına  olanak tanır. 	
+[]()CloneVault	CloneVault,   kırmızı takım operatörünün  Windows  Kimlik Bilgileri Yöneticisi'nden öznitelikler  de dahil olmak üzere girişleri dışarı ve içe aktarmasına  olanak tanır. 	
 https://github.com/mdsecactivebreach/CloneVault
-SharpLAPS	LDAP'den LAPS şifresini   al	https://github.com/swisskyrepo/SharpLAPS
+[]()SharpLAPS	LDAP'den LAPS şifresini   al	https://github.com/swisskyrepo/SharpLAPS
 
-SharpDPAPI	SharpDPAPI,  @gentilkiwi'in Mimikatz projesinden bazı DPAPI işlevlerinin  bir C# bağlantı noktasıdır. 	
+[]()SharpDPAPI	SharpDPAPI,  @gentilkiwi'in Mimikatz projesinden bazı DPAPI işlevlerinin  bir C# bağlantı noktasıdır. 	
 https://github.com/GhostPack/SharpDPAPI
 
-KeeThief	  KeePass 2.X anahtar malzemesinin bellekten  çıkarılmasına  ve  KeePass tetik sisteminin arka kapısının oluşturulmasına ve numaralandırılmasına   olanak tanır.	
+[]()KeeThief	  KeePass 2.X anahtar malzemesinin bellekten  çıkarılmasına  ve  KeePass tetik sisteminin arka kapısının oluşturulmasına ve numaralandırılmasına   olanak tanır.	
 https://github.com/GhostPack/KeeThief
 
-SafetyKatz	SafetyKatz, @gentilkiwi'in Mimikatz projesinin  biraz değiştirilmiş versiyonunun ve @subtee'in  .NET PE Loader'ının   bir kombinasyonudur. 	
+[]()SafetyKatz	SafetyKatz, @gentilkiwi'in Mimikatz projesinin  biraz değiştirilmiş versiyonunun ve @subtee'in  .NET PE Loader'ının   bir kombinasyonudur. 	
 https://github.com/GhostPack/SafetyKatz
 
-forkatz	 SeTrustedCredmanAccessPrivilege kullanan   forshaw tekniğini kullanarak kimlik bilgisi dökümü	
+[]()forkatz	 SeTrustedCredmanAccessPrivilege kullanan   forshaw tekniğini kullanarak kimlik bilgisi dökümü	
 https://github.com/Barbarisch/forkatz
 
-PPLKiller	  LSA  Korumasını atlamak için araç (aka Korumalı İşlem Işığı)	
+[]()PPLKiller	  LSA  Korumasını atlamak için araç (aka Korumalı İşlem Işığı)	
 https://github.com/RedCursorSecurityConsulting/PPLKiller
 
-LaZagne	 LaZagne projesi, yerel bir bilgisayarda depolanan birçok şifreyi almak için kullanılan açık kaynaklı bir uygulamadır.	
+[]()LaZagne	 LaZagne projesi, yerel bir bilgisayarda depolanan birçok şifreyi almak için kullanılan açık kaynaklı bir uygulamadır.	
 https://github.com/AlessandroZ/LaZagne
 
-AndrewÖzel	AndrewSpecial, lsass'ın hafızasını gizlice atıyor ve 2019'dan beri "Cilence" i atlıyor.	
+[]()AndrewÖzel	AndrewSpecial, lsass'ın hafızasını gizlice atıyor ve 2019'dan beri "Cilence" i atlıyor.	
 https://github.com/hoangprod/AndrewSpecial
 
-Net- GPPPassword	  Get-GPPPassword'ün .NET uygulaması   .  Grup İlkesi Tercihleri aracılığıyla gönderilen hesaplar için düz metin parolasını ve diğer bilgileri alır.	
+[]()Net- GPPPassword	  Get-GPPPassword'ün .NET uygulaması   .  Grup İlkesi Tercihleri aracılığıyla gönderilen hesaplar için düz metin parolasını ve diğer bilgileri alır.	
 https://github.com/outflanknl/Net-GPPPassword
 
-SharpChromium	 Tanımlama bilgileri,  geçmiş ve kaydedilmiş oturum açma bilgileri   gibi Chromium verilerini almak için  .NET 4.0 CLR Projesi.	
+[]()SharpChromium	 Tanımlama bilgileri,  geçmiş ve kaydedilmiş oturum açma bilgileri   gibi Chromium verilerini almak için  .NET 4.0 CLR Projesi.	
 https://github.com/djhohnstein/SharpChromium
 
-Chlonium	Chlonium,  Chromium Cookies'i klonlamak için tasarlanmış bir  uygulamadır.	
+[]()Chlonium	Chlonium,  Chromium Cookies'i klonlamak için tasarlanmış bir  uygulamadır.	
 https://github.com/rxwx/chlonium
-SharpCloud	SharpCloud, Amazon   Web  Services, Microsoft Azure   ve Google Compute  ile ilgili kimlik bilgisi dosyalarının varlığını kontrol etmek  için basit bir C# yardımcı programıdır. 	
+[]()SharpCloud	SharpCloud, Amazon   Web  Services, Microsoft Azure   ve Google Compute  ile ilgili kimlik bilgisi dosyalarının varlığını kontrol etmek  için basit bir C# yardımcı programıdır. 	
 https://github.com/chrismaddalena/SharpCloud
 
-pypykatz	 Saf Python'da Mimikatz uygulaması.  En azından bir  kısmı  :)	
+[]()pypykatz	 Saf Python'da Mimikatz uygulaması.  En azından bir  kısmı  :)	
 https://github.com/skelsec/pypykatz
 
-nanodump	  LSASS işleminin  mini dökümünü   oluşturan bir İşaretçi Nesne Dosyası.	
+[]()nanodump	  LSASS işleminin  mini dökümünü   oluşturan bir İşaretçi Nesne Dosyası.	
 https://github.com/helpsystems/nanodump
 		
  
 
-koh	Koh, bir C# ve Beacon Object File (BOF) araç setidir.
+[]()koh	Koh, bir C# ve Beacon Object File (BOF) araç setidir.
 aracılığıyla kullanıcı kimlik bilgisi materyalinin yakalanmasına izin verir
 amaca yönelik belirteç/oturum açma oturumu sızıntısı.	https://github.com/GhostPack/Koh
 
-  Privilege Escalation
 
-Ad	Tarif	URL
+## Privilege Escalation
 
-ElevateKit	  Elevate Kiti, Cobalt Strike'ın Beacon yüküyle üçüncü taraf ayrıcalık yükseltme saldırılarının nasıl kullanılacağını gösterir  .	
+
+[]()ElevateKit	  Elevate Kiti, Cobalt Strike'ın Beacon yüküyle üçüncü taraf ayrıcalık yükseltme saldırılarının nasıl kullanılacağını gösterir  .	
 https://github.com/rsmudge/ElevateKit
 
-Watson	Watson, eksik KB'leri numaralandırmak ve Ayrıcalık Yükseltme güvenlik açıkları için istismarlar  önermek üzere tasarlanmış  bir .NET  aracıdır. 	
+[]()Watson	Watson, eksik KB'leri numaralandırmak ve Ayrıcalık Yükseltme güvenlik açıkları için istismarlar  önermek üzere tasarlanmış  bir .NET  aracıdır. 	
 https://github.com/rasta-mouse/Watson
 
-SharpUp	SharpUp, çeşitli PowerUp işlevlerine sahip bir C# bağlantı noktasıdır.  Şu anda, sadece en yaygın kontroller taşınmıştır; henüz hiçbir silahlandırma işlevi   uygulanmamıştır.	
+[]()SharpUp	SharpUp, çeşitli PowerUp işlevlerine sahip bir C# bağlantı noktasıdır.  Şu anda, sadece en yaygın kontroller taşınmıştır; henüz hiçbir silahlandırma işlevi   uygulanmamıştır.	
 https://github.com/GhostPack/SharpUp
-dazzleUP	 Windows işletim   sistemlerindeki yanlış yapılandırmaların ve eksik güncelleştirmelerin  neden olduğu ayrıcalık yükseltme güvenlik açıklarını algılayan bir araç.   dazzleUP aşağıdaki güvenlik açıklarını tespit eder.	
+[]()dazzleUP	 Windows işletim   sistemlerindeki yanlış yapılandırmaların ve eksik güncelleştirmelerin  neden olduğu ayrıcalık yükseltme güvenlik açıklarını algılayan bir araç.   dazzleUP aşağıdaki güvenlik açıklarını tespit eder.	
 https://github.com/hlldz/dazzleUP
-PEASS	Privilege Escalation Awesome Scripts SUITE (renklerle )	https://github.com/carlospolop/PEASS-ng
-SweetPotato	 Hizmet    hesaplarından  SİSTEM'e çeşitli yerel    Windows ayrıcalık yükseltme teknikleri koleksiyonu	
+[]()PEASS	Privilege Escalation Awesome Scripts SUITE (renklerle )	https://github.com/carlospolop/PEASS-ng
+[]()SweetPotato	 Hizmet    hesaplarından  SİSTEM'e çeşitli yerel    Windows ayrıcalık yükseltme teknikleri koleksiyonu	
 https://github.com/CCob/SweetPotato
-MultiPotato	 SeImpersonate ayrıcalıkları aracılığıyla SİSTEM elde etmek için başka bir Patates	https://github.com/S3cur3Th1sSh1t/MultiPotato
+[]()MultiPotato	 SeImpersonate ayrıcalıkları aracılığıyla SİSTEM elde etmek için başka bir Patates	https://github.com/S3cur3Th1sSh1t/MultiPotato
 
-KrbRelayUp	 LDAP imzalamanın zorlanmadığı Windows etki alanı ortamlarında evrensel bir düzeltmesiz yerel ayrıcalık yükseltmesi (varsayılan ayarlar).	
+[]()KrbRelayUp	 LDAP imzalamanın zorlanmadığı Windows etki alanı ortamlarında evrensel bir düzeltmesiz yerel ayrıcalık yükseltmesi (varsayılan ayarlar).	
 https://github.com/Dec0ne/KrbRelayUp
 
-  Defense Evasion
 
-Ad	Tarif	URL
+## Defense Evasion
 
-RefleXXion	RefleXXion,  AV / EPP / EDR vb.  Tarafından kullanılan kullanıcı modu kancalarını  atlamaya yardımcı  olmak için tasarlanmış bir yardımcı programdır. 	
+
+[]()RefleXXion	RefleXXion,  AV / EPP / EDR vb.  Tarafından kullanılan kullanıcı modu kancalarını  atlamaya yardımcı  olmak için tasarlanmış bir yardımcı programdır. 	
 https://github.com/hlldz/RefleXXion
 
-EDRSandBlast	EDRSandBlast,  EDR algılamalarını (Çekirdek geri aramaları ve ETW TI sağlayıcısı) ve LSASS korumalarını atlamak için  savunmasız bir  imzalı sürücüyü silahlandıran C dilinde yazılmış bir araçtır.	
+[]()EDRSandBlast	EDRSandBlast,  EDR algılamalarını (Çekirdek geri aramaları ve ETW TI sağlayıcısı) ve LSASS korumalarını atlamak için  savunmasız bir  imzalı sürücüyü silahlandıran C dilinde yazılmış bir araçtır.	
 https://github.com/wavestone-cdt/EDRSandblast
 
-unDefender	 Yerel sembolik bağlantıları ve NT yollarını  kötüye kullanarak tercih ettiğiniz kötü amaçlı yazılımdan korumayı  öldürmek.	
+[]()unDefender	 Yerel sembolik bağlantıları ve NT yollarını  kötüye kullanarak tercih ettiğiniz kötü amaçlı yazılımdan korumayı  öldürmek.	
 https://github.com/APTortellini/unDefender
-Backstab	 Kötü amaçlı yazılımdan koruma altındaki süreçleri öldürmek için  bir araç	https://github.com/Yaxser/Backstab
-SPAWN - Cobalt
-Strike BOF	 Cobalt Strike BOF  kurban  edilmiş bir işlem oluşturur,  ona kabuk kodu  enjekte eder ve yükü yürütür. Keyfi Kod Koruması (ACG), BlockDLL ve PPID sahtekarlığı ile kurban etme işlemini ortaya çıkararak   EDR/UserLand kancalarından kaçınmak için tasarlanmıştır  . 	
+[]()Backstab	 Kötü amaçlı yazılımdan koruma altındaki süreçleri öldürmek için  bir araç	https://github.com/Yaxser/Backstab
+[]()SPAWN - CobaltStrike BOF	 Cobalt Strike BOF  kurban  edilmiş bir işlem oluşturur,  ona kabuk kodu  enjekte eder ve yükü yürütür. Keyfi Kod Koruması (ACG), BlockDLL ve PPID sahtekarlığı ile kurban etme işlemini ortaya çıkararak   EDR/UserLand kancalarından kaçınmak için tasarlanmıştır  . 	
 https://github.com/boku7/spawn
-BOF.NET - A .NET
-Runtime for
-Cobalt Strike's
-Beacon Object
-Files	BOF.NET,  Cobalt Strike BOF'larının doğrudan .NET içinde geliştirilmesini sağlayan BOF.NET yönetilen çalışma zamanı  ile birleştirilmiş küçük bir yerel BOF nesnesidir. BOF.NET,  yerel  API'yi manuel olarak   etkilemenin  baş ağrılarıyla birlikte  yerel derlemenin karmaşıklığını ortadan kaldırır. 	
+[]()BOF.NET - A .NET Runtime for Cobalt Strike's Beacon Object Files	BOF.NET,  Cobalt Strike BOF'larının doğrudan .NET içinde geliştirilmesini sağlayan BOF.NET yönetilen çalışma zamanı  ile birleştirilmiş küçük bir yerel BOF nesnesidir. BOF.NET,  yerel  API'yi manuel olarak   etkilemenin  baş ağrılarıyla birlikte  yerel derlemenin karmaşıklığını ortadan kaldırır. 	
 
 https://github.com/CCob/BOF.NET
 
-NetLoader	 Herhangi bir C# ikili dosyasını dosya yolundan veya url'den yükler, AMSI'ye düzeltme eki uygular   ve çalışma zamanında Windows Defender'ı  atlar 	
+[]()NetLoader	 Herhangi bir C# ikili dosyasını dosya yolundan veya url'den yükler, AMSI'ye düzeltme eki uygular   ve çalışma zamanında Windows Defender'ı  atlar 	
 https://github.com/Flangvik/NetLoader
 
-FindObjects-BOF	Belirli  modüller veya işlem tanıtıcıları için süreçleri numaralandırmak üzere doğrudan sistem çağrıları kullanan  bir Cobalt Strike Beacon Object File (BOF) projesi.	
+[]()FindObjects-BOF	Belirli  modüller veya işlem tanıtıcıları için süreçleri numaralandırmak üzere doğrudan sistem çağrıları kullanan  bir Cobalt Strike Beacon Object File (BOF) projesi.	
 https://github.com/outflanknl/FindObjects-BOF
 	C# Tabanlı Evrensel API  Unhooker - API'nin Bağlantısını Otomatik Olarak Çıkarın   	
  
 
 
-SharpUnhooker	
+[]()SharpUnhooker	
 Kovanlar (ntdll.dll,kernel32.dll,user32.dll,advapi32.dll ve
 kernelbase.dll).
 	
 https://github.com/GetRektBoy724/SharpUnhooker 
 
-EvtMute	 Windows olay günlüğü tarafından  bildirilen   olaylara filtre  uygulama	
+[]()EvtMute	 Windows olay günlüğü tarafından  bildirilen   olaylara filtre  uygulama	
 https://github.com/bats3c/EvtMute
-InlineExecute-
-Assembly	InlineExecute-Assembly  ,  güvenlik uzmanlarının  Cobalt Strikes geleneksel çatalına alternatif  olarak işlem .NET derleme  yürütmesini gerçekleştirmesini ve execute-assembly         çalıştırmasını sağlayan bir kavram kanıtı Beacon Object File (BOF) kanıtıdır. modül	
+[]()InlineExecute-Assembly	InlineExecute-Assembly  ,  güvenlik uzmanlarının  Cobalt Strikes geleneksel çatalına alternatif  olarak işlem .NET derleme  yürütmesini gerçekleştirmesini ve execute-assembly         çalıştırmasını sağlayan bir kavram kanıtı Beacon Object File (BOF) kanıtıdır. modül	
 https://github.com/xforcered/InlineExecute- Montaj
-Phant0m	Windows Olay Günlüğü  Katili	https://github.com/hlldz/Phant0m
+[]()Phant0m	Windows Olay Günlüğü  Katili	https://github.com/hlldz/Phant0m
 
-SharpBlock 	 Giriş noktası   yürütmesini engelleyerek EDR'nin etkin projeksiyon DLL'lerini  atlama yöntemi.	
+[]()SharpBlock 	 Giriş noktası   yürütmesini engelleyerek EDR'nin etkin projeksiyon DLL'lerini  atlama yöntemi.	
 https://github.com/CCob/SharpBlock
 
-NtdllUnpatcher	EDR'yi atlamak   için örnek kod, lütfen  mavi takım algılama yeteneklerini EDR'nin kullanıcı alanı kancalarını atlayacak bu tür  kötü amaçlı yazılımlara karşı test etmek için kullanın. 	
+[]()NtdllUnpatcher	EDR'yi atlamak   için örnek kod, lütfen  mavi takım algılama yeteneklerini EDR'nin kullanıcı alanı kancalarını atlayacak bu tür  kötü amaçlı yazılımlara karşı test etmek için kullanın. 	
 https://github.com/Kharos102/NtdllUnpatcher adresini ziyaret edin
-DarkLoadLibrary	 Saldırgan operasyonlar için LoadLibrary.	https://github.com/bats3c/DarkLoadLibrary
+[]()DarkLoadLibrary	 Saldırgan operasyonlar için LoadLibrary.	https://github.com/bats3c/DarkLoadLibrary
 BlockETW	.Net 3.5  / 4.5  Bir işlemde ETW telemetrisini  engellemek için derleme	https://github.com/Soledge/BlockEtw
 
-firewalker	Bu depo,  mevcut koda FireWalker kanca baypas yetenekleri   eklemek için  kullanılabilecek  basit bir kütüphane içerir	
+[]()firewalker	Bu depo,  mevcut koda FireWalker kanca baypas yetenekleri   eklemek için  kullanılabilecek  basit bir kütüphane içerir	
 https://github.com/mdsecactivebreach/firewalker
-KillDefenderBOF	 KillDefender'ın Beacon Object File PoC uygulaması 	https://github.com/Cerbersec/KillDefenderBOF
-Mangle	Mangle,  EDR'lerden  algılanmasını önlemek  için derlenmiş yürütülebilir dosyaların (.exe veya DLL) yönlerini değiştiren bir araçtır	
+[]()KillDefenderBOF	 KillDefender'ın Beacon Object File PoC uygulaması 	https://github.com/Cerbersec/KillDefenderBOF
+[]()Mangle	Mangle,  EDR'lerden  algılanmasını önlemek  için derlenmiş yürütülebilir dosyaların (.exe veya DLL) yönlerini değiştiren bir araçtır	
 https://github.com/optiv/Mangle
 AceLdr	 Hafıza tarayıcısından kaçınma için Cobalt Strike UDRL.	https://github.com/kyleavery/AceLdr
 
- Persistence
 
-Ad	Tarif	URL
-SharpStay	 Kalıcılık yüklemek için .NET projesi	https://github.com/0xthirteen/SharpStay
-SharPersist	 C# ile yazılmış Windows kalıcılık araç seti.	https://github.com/fireeye/SharPersist
-SharpHide	Aracı  gizli kayıt defteri anahtarları oluşturmak için.	https://github.com/outflanknl/SharpHide
+## Persistence
 
-DoUCMe	Bu, yeni bir  bilgisayar hesabı oluşturmak için NetUserAdd Win32 API'sinden yararlanır.     Bu,  usri1_priv türünün USER_INFO_1 0x1000 olarak ayarlanarak yapılır  .	
+
+[]()SharpStay	 Kalıcılık yüklemek için .NET projesi	https://github.com/0xthirteen/SharpStay
+[]()SharPersist	 C# ile yazılmış Windows kalıcılık araç seti.	https://github.com/fireeye/SharPersist
+[]()SharpHide	Aracı  gizli kayıt defteri anahtarları oluşturmak için.	https://github.com/outflanknl/SharpHide
+
+[]()DoUCMe	Bu, yeni bir  bilgisayar hesabı oluşturmak için NetUserAdd Win32 API'sinden yararlanır.     Bu,  usri1_priv türünün USER_INFO_1 0x1000 olarak ayarlanarak yapılır  .	
 https://github.com/Ben0xA/DoUCMe
-A Black Path
+[]()A Black Path
 Toward The Sun	
 (Web  uygulaması sunucuları için  HTTP üzerinden TCP tüneli)	
 https://github.com/nccgroup/ABPTTS
 pivotnacci	 HTTP aracıları aracılığıyla çorap bağlantıları yapmak için  bir araç	https://github.com/blackarrowsec/pivotnacci
 
-reGeorg ·	     ReDuh'un halefi, bir savunma  web sunucusunu pwn ve DMZ aracılığıyla SOCKS proxy'leri oluşturun   .  Pivot ve pwn.	
+[]()reGeorg ·	     ReDuh'un halefi, bir savunma  web sunucusunu pwn ve DMZ aracılığıyla SOCKS proxy'leri oluşturun   .  Pivot ve pwn.	
 https://github.com/sensepost/reGeorg
 
-DAMP	 İsteğe Bağlı ACL Değişiklik Projesi: Ana Bilgisayar Tabanlı Güvenlik Tanımlayıcısı Değişikliği Yoluyla Kalıcılık.	
+[]()DAMP	 İsteğe Bağlı ACL Değişiklik Projesi: Ana Bilgisayar Tabanlı Güvenlik Tanımlayıcısı Değişikliği Yoluyla Kalıcılık.	
 https://github.com/HarmJ0y/DAMP
-IIS-Raid	 Microsoft IIS için yerel bir  arka kapı modülü (Internet Information Services)	
+[]()IIS-Raid	 Microsoft IIS için yerel bir  arka kapı modülü (Internet Information Services)	
 https://github.com/0x09AL/IIS-Raid
-SharPyShell ·	 C# web uygulamaları için küçük ve bulanık ASP.NET web  kabuğu	https://github.com/antonioCoco/SharPyShell
+[]()SharPyShell ·	 C# web uygulamaları için küçük ve bulanık ASP.NET web  kabuğu	https://github.com/antonioCoco/SharPyShell
 
-ScheduleRunner 	  Kırmızı ekip işleminde hem  kalıcılık hem de yanal hareket  için  zamanlanmış görevi özelleştirmek  için daha fazla esnekliğe sahip bir C# aracı	
+[]()ScheduleRunner 	  Kırmızı ekip işleminde hem  kalıcılık hem de yanal hareket  için  zamanlanmış görevi özelleştirmek  için daha fazla esnekliğe sahip bir C# aracı	
 https://github.com/netero1010/ScheduleRunner
-SharpEventPersist	 Olay  Günlüğü'nden kabuk kodu  yazarak/okuyarak kalıcılık	https://github.com/improsec/SharpEventPersist
+[]()SharpEventPersist	 Olay  Günlüğü'nden kabuk kodu  yazarak/okuyarak kalıcılık	https://github.com/improsec/SharpEventPersist
  
-Lateral Movement
-Ad	Tarif	URL
+ 
+## Lateral Movement
 
-Liquid Snake	LiquidSnake, operatörlerin  WMI  Olay Abonelikleri ve GadgetToJScript kullanarak dosyasız yanal hareket gerçekleştirmelerini sağlayan bir araçtır	
+
+[]()Liquid Snake	LiquidSnake, operatörlerin  WMI  Olay Abonelikleri ve GadgetToJScript kullanarak dosyasız yanal hareket gerçekleştirmelerini sağlayan bir araçtır	
 https://github.com/RiccardoAncarani/LiquidSnake
-PowerUpSQL	SQL Server'a  Saldırmak için PowerShell Araç SetiA PowerShell Toolkit  for Attacks SQL Server	https://github.com/NetSPI/PowerUpSQL
+[]()PowerUpSQL	SQL Server'a  Saldırmak için PowerShell Araç SetiA PowerShell Toolkit  for Attacks SQL Server	https://github.com/NetSPI/PowerUpSQL
 
-SCShell	 Komutu  çalıştırmak için  ChangeServiceConfigA'ya  dayanan  dosyasız yanal hareket aracı	
+[]()SCShell	 Komutu  çalıştırmak için  ChangeServiceConfigA'ya  dayanan  dosyasız yanal hareket aracı	
 https://github.com/Mr-Un1k0d3r/SCShell
 
-SharpRDP	 Kimliği Doğrulanmış Komut Yürütme  için Uzak Masaüstü Protokolü Konsol Uygulaması	
+[]()SharpRDP	 Kimliği Doğrulanmış Komut Yürütme  için Uzak Masaüstü Protokolü Konsol Uygulaması	
 https://github.com/0xthirteen/SharpRDP
 
-MoveKit 	Movekit,  SharpMove ve SharpRDP .NET montajları ile execute_assembly  işlevinden yararlanarak  yerleşik Cobalt Strike yanal hareketinin bir uzantısıdır   .	
+[]()MoveKit 	Movekit,  SharpMove ve SharpRDP .NET montajları ile execute_assembly  işlevinden yararlanarak  yerleşik Cobalt Strike yanal hareketinin bir uzantısıdır   .	
 https://github.com/0xthirteen/MoveKit
-SharpNoPSExec	 Yanal hareket için daha az komut yürütme dosyası.	https://github.com/juliourena/SharpNoPSExec
-Responder/MultiRelay	LLMNR/NBT-NS/mDNS Zehirleyici ve NTLMv1/2 Rölesi.	https://github.com/lgandx/Responder
+[]()SharpNoPSExec	 Yanal hareket için daha az komut yürütme dosyası.	https://github.com/juliourena/SharpNoPSExec
+[]()Responder/MultiRelay	LLMNR/NBT-NS/mDNS Zehirleyici ve NTLMv1/2 Rölesi.	https://github.com/lgandx/Responder
 
 
-impacket	Impacket,  ağ protokolleriyle çalışmak için Python sınıflarının bir koleksiyonudur.  Impacket, paketlere ve  bazı protokoller için (örneğin SMB1-3 ve MSRPC) protokol uygulamasının kendisine düşük seviyeli programatik erişim sağlamaya odaklanmıştır.	
+[]()impacket	Impacket,  ağ protokolleriyle çalışmak için Python sınıflarının bir koleksiyonudur.  Impacket, paketlere ve  bazı protokoller için (örneğin SMB1-3 ve MSRPC) protokol uygulamasının kendisine düşük seviyeli programatik erişim sağlamaya odaklanmıştır.	
 
 https://github.com/SecureAuthCorp/impacket
 
-Farmer	Farmer,  NetNTLM karmalarını  bir  Windows etki alanında toplamaya yönelik bir projedir.  	
+[]()Farmer	Farmer,  NetNTLM karmalarını  bir  Windows etki alanında toplamaya yönelik bir projedir.  	
 https://github.com/mdsecactivebreach/Farmer
 
-CIMplant	 Uzak sistemleri sorgulamak için CIM veya WMI kullanan WMImplant'ın  C# bağlantı noktası.  Sağlanan  kimlik bilgilerini veya  geçerli kullanıcının oturumunu kullanabilir  .	
+[]()CIMplant	 Uzak sistemleri sorgulamak için CIM veya WMI kullanan WMImplant'ın  C# bağlantı noktası.  Sağlanan  kimlik bilgilerini veya  geçerli kullanıcının oturumunu kullanabilir  .	
 https://github.com/FortyNorthSecurity/CIMplant
 
-PowerLessShell	PowerLessShell,  Powershell.exe  oluşturmadan PowerShell betiklerini ve komutlarını uzaktan yürütmek için  MSBuild.exe kullanır.    Aynı yaklaşımı kullanarak ham kabuk kodu da yürütebilirsiniz. 	
+[]()PowerLessShell	PowerLessShell,  Powershell.exe  oluşturmadan PowerShell betiklerini ve komutlarını uzaktan yürütmek için  MSBuild.exe kullanır.    Aynı yaklaşımı kullanarak ham kabuk kodu da yürütebilirsiniz. 	
 https://github.com/Mr-Un1k0d3r/PowerLessShell
 
-SharpGPOAbuse	SharpGPOAbuse, C# dilinde yazılmış  ve bir GPO  tarafından  denetlenen nesnelerin  güvenliğini  aşmak için bir   kullanıcının Grup İlkesi Nesnesi (GPO) üzerindeki düzenleme haklarından yararlanmak  için  kullanılabilecek   bir .NET uygulamasıdır.   	
+[]()SharpGPOAbuse	SharpGPOAbuse, C# dilinde yazılmış  ve bir GPO  tarafından  denetlenen nesnelerin  güvenliğini  aşmak için bir   kullanıcının Grup İlkesi Nesnesi (GPO) üzerindeki düzenleme haklarından yararlanmak  için  kullanılabilecek   bir .NET uygulamasıdır.   	
 https://github.com/FSecureLABS/SharpGPOAbuse
 
-kerbrute	 Kerberos Ön Kimlik Doğrulaması yoluyla geçerli Active  Directory hesaplarını hızlı bir şekilde kaba kuvvet uygulamak ve numaralandırmak için bir araç	
+[]()kerbrute	 Kerberos Ön Kimlik Doğrulaması yoluyla geçerli Active  Directory hesaplarını hızlı bir şekilde kaba kuvvet uygulamak ve numaralandırmak için bir araç	
 https://github.com/ropnop/kerbrute
 
-mssqlproxy	mssqlproxy,   soket yeniden kullanımı yoluyla güvenliği ihlal edilmiş bir  Microsoft SQL Server aracılığıyla kısıtlı ortamlarda  yanal hareket  gerçekleştirmeyi amaçlayan bir  araç setidir	
+[]()mssqlproxy	mssqlproxy,   soket yeniden kullanımı yoluyla güvenliği ihlal edilmiş bir  Microsoft SQL Server aracılığıyla kısıtlı ortamlarda  yanal hareket  gerçekleştirmeyi amaçlayan bir  araç setidir	
 https://github.com/blackarrowsec/mssqlproxy
 
-Invoke-TheHash	
+[]()Invoke-TheHash	
 PowerShell Pass Hash  Utils	https://github.com/Kevin-Robertson/Invoke- TheHash
 
-InveighZero	.NET IPv4/IPv6  penetrasyon test cihazları için ortadaki makine aracı	
+[]()InveighZero	.NET IPv4/IPv6  penetrasyon test cihazları için ortadaki makine aracı	
 https://github.com/Kevin-Robertson/InveighZero
 
-SharpSpray 	  SharpSpray,  LDAP kullanan bir  etki alanının tüm kullanıcılarına  karşı şifre  püskürtme saldırısı gerçekleştirmek için ayarlanmış basit bir kod  ve Cobalt Strike ile uyumludur.	
+[]()SharpSpray 	  SharpSpray,  LDAP kullanan bir  etki alanının tüm kullanıcılarına  karşı şifre  püskürtme saldırısı gerçekleştirmek için ayarlanmış basit bir kod  ve Cobalt Strike ile uyumludur.	
 https://github.com/jnqpblc/SharpSpray
-CrackMapExec	 Pentest ağları için bir İsviçre çakısı 	https://github.com/byt3bl33d3r/CrackMapExec
+[]()CrackMapExec	 Pentest ağları için bir İsviçre çakısı 	https://github.com/byt3bl33d3r/CrackMapExec
 
-SharpAllowedToAct	 @elad_shamir tarafından yapılan  araştırmaya dayanan  Kaynak Tabanlı Kısıtlı Temsilci Seçme (msDS- AllowedToActOnBehalfOfOtherIdentity)  aracılığıyla bilgisayar nesnesinin devralınmasının C# uygulaması.	
+[]()SharpAllowedToAct	 @elad_shamir tarafından yapılan  araştırmaya dayanan  Kaynak Tabanlı Kısıtlı Temsilci Seçme (msDS- AllowedToActOnBehalfOfOtherIdentity)  aracılığıyla bilgisayar nesnesinin devralınmasının C# uygulaması.	
 https://github.com/pkb1s/SharpAllowedToAct
  
 
 
-SharpRDPHijack	SharpRDPHijack, kavram kanıtı olan bir .NET/C# Uzaktan Kumandasıdır için Masaüstü Protokolü (RDP) oturum kaçırma yardımcı programı bağlantısı kesilmiş oturumlar	
+[]()SharpRDPHijack	SharpRDPHijack, kavram kanıtı olan bir .NET/C# Uzaktan Kumandasıdır için Masaüstü Protokolü (RDP) oturum kaçırma yardımcı programı bağlantısı kesilmiş oturumlar	
 https://github.com/bohops/SharpRDPHijack
 
 	
 
-CheeseTools	  Bu depo zaten var olan MiscTool'a dayanarak yapıldı, onları serbest bıraktığı ve bana üzerinde çalışmak için doğru motivasyonu verdiği için rasta-mouse'a çok büyük bir haykırış.      onlara.	
+[]()CheeseTools	  Bu depo zaten var olan MiscTool'a dayanarak yapıldı, onları serbest bıraktığı ve bana üzerinde çalışmak için doğru motivasyonu verdiği için rasta-mouse'a çok büyük bir haykırış.      onlara.	
 https://github.com/klezVirus/CheeseTools
 
-SharpSpray 	SharpSpray, .NET C# ile yazılmış bir Windows etki alanı parola püskürtme aracıdır. 	
+[]()SharpSpray 	SharpSpray, .NET C# ile yazılmış bir Windows etki alanı parola püskürtme aracıdır. 	
 https://github.com/iomoath/SharpSpray
 
-MalSCCM	Bu araç,  kötü amaçlı uygulamaları  yönettikleri ana bilgisayarlara dağıtmak için yerel veya uzak SCCM sunucularını kötüye kullanmanıza olanak tanır  .	
+[]()MalSCCM	Bu araç,  kötü amaçlı uygulamaları  yönettikleri ana bilgisayarlara dağıtmak için yerel veya uzak SCCM sunucularını kötüye kullanmanıza olanak tanır  .	
 https://github.com/nettitude/MalSCCM
 
-Coercer	Bir    Windows sunucusunu rastgele bir makinede 9 yöntemle kimlik doğrulaması yapmaya otomatik olarak zorlamak için bir   python komut dosyası.	
+[]()Coercer	Bir    Windows sunucusunu rastgele bir makinede 9 yöntemle kimlik doğrulaması yapmaya otomatik olarak zorlamak için bir   python komut dosyası.	
 https://github.com/p0dalirius/Coercer
 
-SharpSploit	SharpSploit, .NET'in saldırı   yüzeyini      vurgulamayı ve kırmızı takım oyuncuları  için  saldırgan .NET  kullanımını  kolaylaştırmayı amaçlayan C# ile yazılmış bir .NET istismar sonrası kitaplığıdır  . 	
+[]()SharpSploit	SharpSploit, .NET'in saldırı   yüzeyini      vurgulamayı ve kırmızı takım oyuncuları  için  saldırgan .NET  kullanımını  kolaylaştırmayı amaçlayan C# ile yazılmış bir .NET istismar sonrası kitaplığıdır  . 	
 https://github.com/cobbr/SharpSploit
 
+
 Exfiltration
-Ad	Tarif	URL
 
-SharpExfiltrate	 Güvenli ve güvenilir kanallar üzerinden ganimet sızdırmak için  modüler C# çerçevesi.	
+
+[]()SharpExfiltrate	 Güvenli ve güvenilir kanallar üzerinden ganimet sızdırmak için  modüler C# çerçevesi.	
 https://github.com/Flangvik/SharpExfiltrate
-DNSExfiltrator	 DNS isteği gizli kanalı üzerinden veri sızıntısı	https://github.com/Arno0x/DNSExfiltrator
+[]()DNSExfiltrator	 DNS isteği gizli kanalı üzerinden veri sızıntısı	https://github.com/Arno0x/DNSExfiltrator
 
-Egress-Assess	Egress-Assess, çıkış verilerini algılama yeteneklerini test etmek için kullanılan bir araçtır.	https://github.com/FortyNorthSecurity/Egress- Değerlendirme
+[]()Egress-Assess	Egress-Assess, çıkış verilerini algılama yeteneklerini test etmek için kullanılan bir araçtır.	https://github.com/FortyNorthSecurity/Egress- Değerlendirme
+
 Miscellaneous 
 
-Threat-informed Defense
+## Threat-informed Defense
 
-Ad	Tarif	URL
-Tidal
+
+[]()Tidal
 Cyber	Tidal Cyber,  kurumsal kuruluşların kendileri için  en önemli olan   düşman davranışlarını ele almak için  savunmalarını  tanımlamalarına, ölçmelerine ve geliştirmelerine yardımcı olur  .	
 https://app.tidalcyber.com
-Control
+[]()Control
 Validation
 Compass	Tehdit modelleme yardımcısı ve  mor ekip içerik deposu, güvenlik ve  istihbarat ekiplerini 10.000'den fazla  kamuya açık teknik ve  politika kontrolüne    ve 2.100'den fazla saldırgan güvenlik    testine yönlendiren   yaklaşık 600 yaygın saldırgan tekniği	
 https://controlcompass.github.io
 
-Cloud
+## Cloud
 
-Amazon Web Services (AWS)
+### Amazon Web Services (AWS)
 
-Ad	Tarif	URL
 
-pacu	 Amazon Web Services ortamlarının güvenliğini test etmek için tasarlanmış AWS istismar çerçevesi.	
+
+[]()pacu	 Amazon Web Services ortamlarının güvenliğini test etmek için tasarlanmış AWS istismar çerçevesi.	
 https://github.com/RhinoSecurityLabs/pacu
 
-CloudMapper	CloudMapper,  Amazon Web Services (AWS) ortamlarınızı analiz etmenize yardımcı olur.	
+[]()CloudMapper	CloudMapper,  Amazon Web Services (AWS) ortamlarınızı analiz etmenize yardımcı olur.	
 https://github.com/duo-labs/cloudmapper
-Enumerate IAM
+[]()Enumerate IAM
 permissions	
  AWS kimlik bilgisi kümesiyle ilişkili  izinleri numaralandırma	https://github.com/andresriancho/enumerate- iam
 
-Azure
-Ad	Tarif	URL
+## Azure
 
-Azure AD Connect
+
+[]()Azure AD Connect
 password extraction	Bu araç seti, depolanan Azure AD ve  Active Directory kimlik bilgilerini Azure AD Connect sunucularından ayıklamak ve şifresini çözmek için çeşitli yollar sunar.	
 https://github.com/fox-it/adconnectdump
 
-Storm Spotter	Azure   ve Azure  Active Directory nesnelerinin grafiğini çizmek için Azure Kırmızı Ekip aracı	
+[]()Storm Spotter	Azure   ve Azure  Active Directory nesnelerinin grafiğini çizmek için Azure Kırmızı Ekip aracı	
 https://github.com/Azure/Stormspotter
-ROADtools	 Azure AD keşif çerçevesi.	https://github.com/dirkjanm/ROADtools
-MicroBurst: A PowerShell
+[]()ROADtools	 Azure AD keşif çerçevesi.	https://github.com/dirkjanm/ROADtools
+[]()MicroBurst: A PowerShell
 Toolkit for Attacking
 Azure	
  Microsoft Azure  güvenliğini değerlendirmek için bir  betikler koleksiyonu	
 https://github.com/NetSPI/MicroBurst
 
-AADInternals	 Azure AD ve Office 365'i yönetmek için AADInternals PowerShell modülü	
+[]()AADInternals	 Azure AD ve Office 365'i yönetmek için AADInternals PowerShell modülü	
 https://github.com/Gerenios/AADInternals
 
-Adversary Emulation
+## Adversary Emulation
 
-Ad	Tarif	URL
 
-Stratus Red
+[]()Stratus Red
 Team	Stratus Red Team, bulut için "Atomik Kırmızı Takım™" dır ve  saldırı saldırı tekniklerini ayrıntılı ve kendi kendine yeten bir şekilde taklit  etmeyi sağlar. 	
 https://github.com/DataDog/stratus-red-team
-Prelude
+[]()Prelude
 []()Operator	 Geliştirici öncelikli gelişmiş güvenlik için bir Platform·  Gerçek düşmanca saldırıları taklit ederek kuruluşunuzu savunun.	
 https:// www.preludesecurity.com/products/operator
 
@@ -581,9 +578,8 @@ https://github.com/alphasoc/flightsim
 (RTA)	RTA, mavi ekiplerin algılama yeteneklerini  MITRE  ATT&CK'den sonra modellenen  kötü amaçlı ticarete karşı test etmelerine izin vermek için tasarlanmış bir komut dosyası çerçevesi sağlar.	
 https://github.com/endgameinc/RTA
 
-Red Team Scripts
+## Red Team Scripts
 
-Ad	Tarif	URL
 
 []()RedTeamCCode	
 Kırmızı Takım C kod deposu	https://github.com/Mr- Un1k0d3r/RedTeamCCode
