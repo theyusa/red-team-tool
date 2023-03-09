@@ -80,7 +80,8 @@ Gitleaks,  git depolarındaki parolalar, api anahtarları ve belirteçler gibi s
 
 [OfficePurge](https://github.com/fireeye/OfficePurge)	VBA, OfficeUrge ile Office belgelerinizi temizleyin. VBA temizleme, Office belgeleri içindeki modül akışlarından P kodunu  kaldırır.	
 
-[ThreatCheck](https://github.com/rasta-mouse/ThreatCheck)	 Microsoft Defender / AMSI   Tüketicisinin bayrakladığı baytları tanımlar.	
+[ThreatCheck](https://github.com/rasta-mouse/ThreatCheck)	 Microsoft Defender / AMSI   Tüketicisinin bayrakladığı baytları tanımlar
+
 [CrossC2](https://github.com/gloxec/CrossC2)	 CobaltStrike'ın platformlar arası yükünü oluşturun	
 
 [Ruler](https://github.com/sensepost/ruler)	  Ruler, MAPI/HTTP veya RPC/HTTP protokolü aracılığıyla   Exchange sunucularıyla uzaktan  etkileşim kurmanıza olanak tanıyan  bir araçtır.	
@@ -175,7 +176,8 @@ Eserler filigranlama, IOC koleksiyonu ve PE Arka Kapı ile öne çıkan.       �
 [C3](https://github.com/FSecureLABS/C3) 	C3 (Özel Komuta ve  Kontrol),  Kırmızı  Ekiplerin ezoterik komuta ve  kontrol kanallarını (C2) hızla geliştirmesine   ve kullanmasına olanak tanıyan  bir araçtır.
 
 
-[Chameleon](https://githubcom/mdsecactivebreach/Chameleon)	 Proxy kategorizasyonundan kaçınmak için bir araç	
+[Chameleon](https://githubcom/mdsecactivebreach/Chameleon)	 Proxy kategorizasyonundan kaçınmak için bir araç
+
 [Cobalt Strike Malleable C2 Design and Reference Guide](https://github.com/threatexpress/malleable-c2/)	Cobalt Strike Dövülebilir C2 Tasarım ve Referans Kılavuzu 	
 
 [redirect.rules	](https://github.com/0xZDH/redirect.rules)	Hızlı ve kirli dinamik redirect.rules üreteci	
@@ -397,7 +399,8 @@ amaca yönelik belirteç/oturum açma oturumu sızıntısı.
 
 [SCShell](https://github.com/Mr-Un1k0d3r/SCShell)	 Komutu  çalıştırmak için  ChangeServiceConfigA'ya  dayanan  dosyasız yanal hareket aracı	
 
-[SharpRDP](https://github.com/0xthirteen/SharpRDP)	 Kimliği Doğrulanmış Komut Yürütme  için Uzak Masaüstü Protokolü Konsol Uygulaması	
+[SharpRDP](https://github.com/0xthirteen/SharpRDP)	 Kimliği Doğrulanmış Komut Yürütme  için Uzak Masaüstü Protokolü Konsol Uygulaması
+
 [MoveKit](https://github.com/0xthirteen/MoveKit) 	Movekit,  SharpMove ve SharpRDP .NET montajları ile execute_assembly  işlevinden yararlanarak  yerleşik Cobalt Strike yanal hareketinin bir uzantısıdır  
 
 [SharpNoPSExec](https://github.com/juliourena/SharpNoPSExec)	 Yanal hareket için daha az komut yürütme dosyası.
@@ -503,7 +506,7 @@ https://github.com/RhinoSecurityLabs/pacu
 
 [Prelude Operator](https://www.preludesecurity.com/products/operator)	 Geliştirici öncelikli gelişmiş güvenlik için bir Platform·  Gerçek düşmanca saldırıları taklit ederek kuruluşunuzu savunun.	
 
-[Prelude Build](https:// www.preludesecurity.com/products/build)	 Üretime hazır güvenlik testlerini  yazmak, test etmek  ve doğrulamak için açık kaynaklı bir  IDE.. 	
+[Prelude Build](https://www.preludesecurity.com/products/build)	 Üretime hazır güvenlik testlerini  yazmak, test etmek  ve doğrulamak için açık kaynaklı bir  IDE.. 	
 
 [Caldera](https://github.com/mitre/caldera)	Windows Enterprise  ağlarında uzlaşma  sonrası düşmanca davranış gerçekleştiren  otomatik bir  düşman öykünme sistemi.	
 
