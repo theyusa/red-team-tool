@@ -80,7 +80,8 @@ Gitleaks,  git depolarındaki parolalar, api anahtarları ve belirteçler gibi s
 
 [OfficePurge](https://github.com/fireeye/OfficePurge)	VBA, OfficeUrge ile Office belgelerinizi temizleyin. VBA temizleme, Office belgeleri içindeki modül akışlarından P kodunu  kaldırır.	
 
-[ThreatCheck](https://github.com/rasta-mouse/ThreatCheck)	 Microsoft Defender / AMSI   Tüketicisinin bayrakladığı baytları tanımlar.	
+[ThreatCheck](https://github.com/rasta-mouse/ThreatCheck)	 Microsoft Defender / AMSI   Tüketicisinin bayrakladığı baytları tanımlar.
+
 [CrossC2](https://github.com/gloxec/CrossC2)	 CobaltStrike'ın platformlar arası yükünü oluşturun	
 
 [Ruler](https://github.com/sensepost/ruler)	  Ruler, MAPI/HTTP veya RPC/HTTP protokolü aracılığıyla   Exchange sunucularıyla uzaktan  etkileşim kurmanıza olanak tanıyan  bir araçtır.	
