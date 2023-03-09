@@ -519,7 +519,7 @@ https://github.com/RhinoSecurityLabs/pacu
 
 [Metta](https://github.com/uber-common/metta)	 Düşmanca simülasyon yapmak için  bir güvenlik hazırlık aracı.	
 
-(RTA)](https://github.com/endgameinc/RTA)	RTA, mavi ekiplerin algılama yeteneklerini  MITRE  ATT&CK'den sonra modellenen  kötü amaçlı ticarete karşı test etmelerine izin vermek için tasarlanmış bir komut dosyası çerçevesi sağlar.	
+[RTA](https://github.com/endgameinc/RTA)	RTA, mavi ekiplerin algılama yeteneklerini  MITRE  ATT&CK'den sonra modellenen  kötü amaçlı ticarete karşı test etmelerine izin vermek için tasarlanmış bir komut dosyası çerçevesi sağlar.	
 
 
 
